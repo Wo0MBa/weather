@@ -7,17 +7,17 @@
     "probability": 90,
     "trend": -0.1,
     "sky": "Clear",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "S24": {
     "name": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
     "code": "S24",
-    "current": 29.9,
+    "current": 29.6,
     "unit": "C",
     "probability": 75,
     "trend": -0.2,
     "sky": "Clear",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "ZGSZ": {
     "name": "\u0428\u044d\u043d\u044c\u0447\u0436\u044d\u043d\u044c",
@@ -27,7 +27,7 @@
     "probability": 65,
     "trend": -0.1,
     "sky": "Clear",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "ZGGG": {
     "name": "\u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443",
@@ -37,7 +37,7 @@
     "probability": 65,
     "trend": -0.9,
     "sky": "Clear",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "RJTT": {
     "name": "\u0422\u043e\u043a\u0438\u043e",
@@ -47,7 +47,7 @@
     "probability": 20,
     "trend": -0.1,
     "sky": "Cloudy",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "RCTP": {
     "name": "\u0422\u0430\u0439\u0431\u044d\u0439",
@@ -57,7 +57,7 @@
     "probability": 40,
     "trend": 0.6,
     "sky": "Cloudy",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "RKSS": {
     "name": "\u0421\u0435\u0443\u043b",
@@ -67,7 +67,7 @@
     "probability": 65,
     "trend": -0.7,
     "sky": "Clear",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "VTBS": {
     "name": "\u0411\u0430\u043d\u0433\u043a\u043e\u043a",
@@ -77,7 +77,7 @@
     "probability": 20,
     "trend": -0.3,
     "sky": "Cloudy",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "UUWW": {
     "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
@@ -87,17 +87,17 @@
     "probability": 20,
     "trend": -0.3,
     "sky": "Cloudy",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "EFHK": {
     "name": "\u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438",
     "code": "EFHK",
-    "current": 17.0,
+    "current": 18.0,
     "unit": "C",
     "probability": 40,
     "trend": 0.5,
     "sky": "Cloudy",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   },
   "EHAM": {
     "name": "\u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c",
@@ -107,6 +107,6 @@
     "probability": 40,
     "trend": 0.9,
     "sky": "Cloudy",
-    "updated": "07:21 MSK"
+    "updated": "07:26 MSK"
   }
 }
