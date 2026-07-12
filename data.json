@@ -9,43 +9,19 @@
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "20:10 MSK"
+    "updated": "20:20 MSK"
   },
-  "RCTP": {
-    "name": "Taipei",
+  "ZGGG": {
+    "name": "Guangzhou",
     "region": "ASIA",
-    "code": "RCTP",
-    "current": 29.0,
+    "code": "ZGGG",
+    "current": 31.0,
     "unit": "C",
     "prob1": 50,
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "20:11 MSK"
-  },
-  "RKSS": {
-    "name": "Seoul",
-    "region": "ASIA",
-    "code": "RKSS",
-    "current": 28.0,
-    "unit": "C",
-    "prob1": 50,
-    "prob2": 5,
-    "trend": 0,
-    "sky": "N/A",
-    "updated": "20:11 MSK"
-  },
-  "LLBG": {
-    "name": "Tel Aviv",
-    "region": "ASIA",
-    "code": "LLBG",
-    "current": 28.0,
-    "unit": "C",
-    "prob1": 50,
-    "prob2": 5,
-    "trend": 0,
-    "sky": "N/A",
-    "updated": "20:11 MSK"
+    "updated": "20:21 MSK"
   },
   "LEMD": {
     "name": "Madrid",
@@ -57,18 +33,18 @@
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "20:12 MSK"
+    "updated": "20:22 MSK"
   },
-  "LTBA": {
-    "name": "Istanbul",
+  "FACT": {
+    "name": "Cape Town",
     "region": "EUROPE",
-    "code": "LTBA",
-    "current": 26.0,
+    "code": "FACT",
+    "current": 15.0,
     "unit": "C",
     "prob1": 50,
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "20:13 MSK"
+    "updated": "20:23 MSK"
   }
 }
