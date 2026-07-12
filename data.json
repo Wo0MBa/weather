@@ -9,19 +9,19 @@
     "prob2": 5,
     "trend": 0.0,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "S24": {
     "name": "Singapore",
     "region": "ASIA",
     "code": "S24",
-    "current": 29.9,
+    "current": 29.5,
     "unit": "C",
-    "prob1": 45,
-    "prob2": 20,
+    "prob1": 20,
+    "prob2": 5,
     "trend": 0.0,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "ZGSZ": {
     "name": "Shenzhen",
@@ -33,19 +33,19 @@
     "prob2": 5,
     "trend": 0.0,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "ZGGG": {
     "name": "Guangzhou",
     "region": "ASIA",
     "code": "ZGGG",
-    "current": 37.0,
+    "current": 38.0,
     "unit": "C",
     "prob1": 50,
     "prob2": 20,
     "trend": -0.5,
     "sky": "P.Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "RJTT": {
     "name": "Tokyo",
@@ -57,7 +57,7 @@
     "prob2": 5,
     "trend": -0.2,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "RCTP": {
     "name": "Taipei",
@@ -69,7 +69,7 @@
     "prob2": 5,
     "trend": -0.5,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "RKSS": {
     "name": "Seoul",
@@ -81,7 +81,7 @@
     "prob2": 35,
     "trend": -0.5,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "LLBG": {
     "name": "Tel Aviv",
@@ -93,7 +93,7 @@
     "prob2": 55,
     "trend": 0.3,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "OEJN": {
     "name": "Jeddah",
@@ -105,7 +105,7 @@
     "prob2": 55,
     "trend": 0.3,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "UUWW": {
     "name": "Moscow",
@@ -117,7 +117,7 @@
     "prob2": 5,
     "trend": -0.2,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "EFHK": {
     "name": "Helsinki",
@@ -129,7 +129,7 @@
     "prob2": 40,
     "trend": 0.6,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
@@ -141,7 +141,7 @@
     "prob2": 40,
     "trend": 2.5,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "EGLC": {
     "name": "London City",
@@ -153,19 +153,19 @@
     "prob2": 10,
     "trend": 1.7,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "LFPG": {
     "name": "Paris CDG",
     "region": "EUROPE",
     "code": "LFPG",
-    "current": 22.0,
+    "current": 23.0,
     "unit": "C",
     "prob1": 70,
     "prob2": 40,
     "trend": 2.6,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "LEMD": {
     "name": "Madrid",
@@ -177,7 +177,7 @@
     "prob2": 10,
     "trend": 1.8,
     "sky": "P.Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "EDDM": {
     "name": "Munich",
@@ -189,19 +189,19 @@
     "prob2": 55,
     "trend": 1.3,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "EPWA": {
     "name": "Warsaw",
     "region": "EUROPE",
     "code": "EPWA",
-    "current": 14.0,
+    "current": 15.0,
     "unit": "C",
     "prob1": 40,
     "prob2": 10,
     "trend": 0.1,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "LIMC": {
     "name": "Milan",
@@ -213,7 +213,7 @@
     "prob2": 55,
     "trend": 1.6,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "LTAC": {
     "name": "Ankara",
@@ -225,7 +225,7 @@
     "prob2": 55,
     "trend": 1.4,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "LTBA": {
     "name": "Istanbul",
@@ -237,18 +237,18 @@
     "prob2": 55,
     "trend": 0.7,
     "sky": "Clear",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   },
   "FACT": {
     "name": "Cape Town",
     "region": "EUROPE",
     "code": "FACT",
-    "current": 10.0,
+    "current": 9.0,
     "unit": "C",
     "prob1": 70,
     "prob2": 40,
     "trend": 3.4,
     "sky": "Cloudy",
-    "updated": "09:01 MSK"
+    "updated": "09:06 MSK"
   }
 }
