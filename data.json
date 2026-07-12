@@ -1,4 +1,40 @@
 {
+  "ZGSZ": {
+    "name": "Shenzhen",
+    "region": "ASIA",
+    "code": "ZGSZ",
+    "current": 29.0,
+    "unit": "C",
+    "prob1": 50,
+    "prob2": 5,
+    "trend": 0,
+    "sky": "N/A",
+    "updated": "20:10 MSK"
+  },
+  "RCTP": {
+    "name": "Taipei",
+    "region": "ASIA",
+    "code": "RCTP",
+    "current": 29.0,
+    "unit": "C",
+    "prob1": 50,
+    "prob2": 5,
+    "trend": 0,
+    "sky": "N/A",
+    "updated": "20:11 MSK"
+  },
+  "RKSS": {
+    "name": "Seoul",
+    "region": "ASIA",
+    "code": "RKSS",
+    "current": 28.0,
+    "unit": "C",
+    "prob1": 50,
+    "prob2": 5,
+    "trend": 0,
+    "sky": "N/A",
+    "updated": "20:11 MSK"
+  },
   "LLBG": {
     "name": "Tel Aviv",
     "region": "ASIA",
@@ -9,54 +45,30 @@
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "20:01 MSK"
+    "updated": "20:11 MSK"
   },
-  "OEJN": {
-    "name": "Jeddah",
-    "region": "ASIA",
-    "code": "OEJN",
-    "current": 34.0,
-    "unit": "C",
-    "prob1": 50,
-    "prob2": 5,
-    "trend": 0,
-    "sky": "N/A",
-    "updated": "20:01 MSK"
-  },
-  "EFHK": {
-    "name": "Helsinki",
+  "LEMD": {
+    "name": "Madrid",
     "region": "EUROPE",
-    "code": "EFHK",
-    "current": 20.0,
-    "unit": "C",
-    "prob1": 50,
-    "prob2": 5,
-    "trend": 0,
-    "sky": "N/A",
-    "updated": "20:02 MSK"
-  },
-  "EPWA": {
-    "name": "Warsaw",
-    "region": "EUROPE",
-    "code": "EPWA",
-    "current": 19.0,
-    "unit": "C",
-    "prob1": 50,
-    "prob2": 5,
-    "trend": 0,
-    "sky": "N/A",
-    "updated": "20:03 MSK"
-  },
-  "LIMC": {
-    "name": "Milan",
-    "region": "EUROPE",
-    "code": "LIMC",
+    "code": "LEMD",
     "current": 33.0,
     "unit": "C",
     "prob1": 50,
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "20:03 MSK"
+    "updated": "20:12 MSK"
+  },
+  "LTBA": {
+    "name": "Istanbul",
+    "region": "EUROPE",
+    "code": "LTBA",
+    "current": 26.0,
+    "unit": "C",
+    "prob1": 50,
+    "prob2": 5,
+    "trend": 0,
+    "sky": "N/A",
+    "updated": "20:13 MSK"
   }
 }
