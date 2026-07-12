@@ -5,23 +5,23 @@
     "code": "VHHH",
     "current": 30.4,
     "unit": "C",
-    "prob1": 5,
-    "prob2": 5,
-    "trend": 1.2,
+    "prob1": 50,
+    "prob2": 50,
+    "trend": 0,
     "sky": "Cloudy",
-    "updated": "17:57 MSK"
+    "updated": "18:03 MSK"
   },
   "S24": {
     "name": "Singapore",
     "region": "ASIA",
     "code": "S24",
-    "current": 28.6,
+    "current": 28.8,
     "unit": "C",
-    "prob1": 5,
-    "prob2": 5,
-    "trend": -0.1,
+    "prob1": 50,
+    "prob2": 50,
+    "trend": 0,
     "sky": "Cloudy",
-    "updated": "17:57 MSK"
+    "updated": "18:03 MSK"
   },
   "ZGSZ": {
     "name": "Shenzhen",
@@ -29,11 +29,11 @@
     "code": "ZGSZ",
     "current": 30.0,
     "unit": "C",
-    "prob1": 5,
-    "prob2": 5,
-    "trend": 1.2,
+    "prob1": 50,
+    "prob2": 50,
+    "trend": 0,
     "sky": "Cloudy",
-    "updated": "17:57 MSK"
+    "updated": "18:03 MSK"
   },
   "ZGGG": {
     "name": "Guangzhou",
@@ -41,11 +41,11 @@
     "code": "ZGGG",
     "current": 33.0,
     "unit": "C",
-    "prob1": 25,
-    "prob2": 5,
-    "trend": 0.9,
-    "sky": "P.Cloudy",
-    "updated": "17:57 MSK"
+    "prob1": 50,
+    "prob2": 50,
+    "trend": 0,
+    "sky": "Cloudy",
+    "updated": "18:03 MSK"
   },
   "RJTT": {
     "name": "Tokyo",
@@ -53,11 +53,11 @@
     "code": "RJTT",
     "current": 26.0,
     "unit": "C",
-    "prob1": 50,
-    "prob2": 50,
-    "trend": 0,
+    "prob1": 40,
+    "prob2": 10,
+    "trend": 1.2,
     "sky": "Cloudy",
-    "updated": "17:57 MSK"
+    "updated": "18:03 MSK"
   },
   "RCTP": {
     "name": "Taipei",
@@ -65,11 +65,11 @@
     "code": "RCTP",
     "current": 29.0,
     "unit": "C",
-    "prob1": 5,
-    "prob2": 5,
-    "trend": 0.8,
+    "prob1": 50,
+    "prob2": 50,
+    "trend": 0,
     "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "RKSS": {
     "name": "Seoul",
@@ -77,11 +77,11 @@
     "code": "RKSS",
     "current": 29.0,
     "unit": "C",
-    "prob1": 50,
-    "prob2": 50,
-    "trend": 0,
-    "sky": "P.Cloudy",
-    "updated": "17:58 MSK"
+    "prob1": 85,
+    "prob2": 55,
+    "trend": 2.4,
+    "sky": "Clear",
+    "updated": "18:03 MSK"
   },
   "LLBG": {
     "name": "Tel Aviv",
@@ -91,21 +91,21 @@
     "unit": "C",
     "prob1": 5,
     "prob2": 5,
-    "trend": -0.5,
-    "sky": "P.Cloudy",
-    "updated": "17:58 MSK"
+    "trend": -0.3,
+    "sky": "Cloudy",
+    "updated": "18:03 MSK"
   },
   "OEJN": {
     "name": "Jeddah",
     "region": "ASIA",
     "code": "OEJN",
-    "current": 35.0,
+    "current": 34.0,
     "unit": "C",
     "prob1": 5,
     "prob2": 5,
-    "trend": -0.8,
+    "trend": -0.7,
     "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "UUWW": {
     "name": "Moscow",
@@ -115,9 +115,9 @@
     "unit": "C",
     "prob1": 5,
     "prob2": 5,
-    "trend": -0.4,
+    "trend": -0.2,
     "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "EFHK": {
     "name": "Helsinki",
@@ -127,9 +127,9 @@
     "unit": "C",
     "prob1": 5,
     "prob2": 5,
-    "trend": -2.5,
+    "trend": -0.8,
     "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
@@ -137,11 +137,11 @@
     "code": "EHAM",
     "current": 25.0,
     "unit": "C",
-    "prob1": 50,
-    "prob2": 20,
-    "trend": -1.2,
-    "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "prob1": 20,
+    "prob2": 5,
+    "trend": -2.1,
+    "sky": "Clear",
+    "updated": "18:03 MSK"
   },
   "EGLC": {
     "name": "London City",
@@ -151,9 +151,9 @@
     "unit": "C",
     "prob1": 65,
     "prob2": 35,
-    "trend": -0.5,
+    "trend": -0.9,
     "sky": "Clear",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "LFPG": {
     "name": "Paris CDG",
@@ -161,11 +161,11 @@
     "code": "LFPG",
     "current": 35.0,
     "unit": "C",
-    "prob1": 50,
-    "prob2": 20,
-    "trend": -0.2,
-    "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "prob1": 20,
+    "prob2": 5,
+    "trend": -0.8,
+    "sky": "Clear",
+    "updated": "18:03 MSK"
   },
   "LEMD": {
     "name": "Madrid",
@@ -173,11 +173,11 @@
     "code": "LEMD",
     "current": 34.0,
     "unit": "C",
-    "prob1": 50,
-    "prob2": 20,
+    "prob1": 5,
+    "prob2": 5,
     "trend": -1.1,
-    "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "sky": "P.Cloudy",
+    "updated": "18:03 MSK"
   },
   "EDDM": {
     "name": "Munich",
@@ -185,11 +185,11 @@
     "code": "EDDM",
     "current": 28.0,
     "unit": "C",
-    "prob1": 65,
-    "prob2": 35,
-    "trend": -0.3,
+    "prob1": 20,
+    "prob2": 5,
+    "trend": -1.1,
     "sky": "Clear",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "EPWA": {
     "name": "Warsaw",
@@ -197,11 +197,11 @@
     "code": "EPWA",
     "current": 18.0,
     "unit": "C",
-    "prob1": 20,
+    "prob1": 25,
     "prob2": 5,
-    "trend": 0.0,
+    "trend": 0.2,
     "sky": "Cloudy",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "LIMC": {
     "name": "Milan",
@@ -209,11 +209,11 @@
     "code": "LIMC",
     "current": 33.0,
     "unit": "C",
-    "prob1": 65,
-    "prob2": 35,
-    "trend": -0.2,
+    "prob1": 20,
+    "prob2": 5,
+    "trend": -0.4,
     "sky": "Clear",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "LTAC": {
     "name": "Ankara",
@@ -223,9 +223,9 @@
     "unit": "C",
     "prob1": 20,
     "prob2": 5,
-    "trend": -2.7,
+    "trend": -2.2,
     "sky": "Clear",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "LTBA": {
     "name": "Istanbul",
@@ -235,9 +235,9 @@
     "unit": "C",
     "prob1": 20,
     "prob2": 5,
-    "trend": -1.5,
+    "trend": -0.8,
     "sky": "Clear",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   },
   "FACT": {
     "name": "Cape Town",
@@ -245,10 +245,10 @@
     "code": "FACT",
     "current": 20.0,
     "unit": "C",
-    "prob1": 65,
-    "prob2": 35,
-    "trend": -0.6,
+    "prob1": 20,
+    "prob2": 5,
+    "trend": -0.8,
     "sky": "Clear",
-    "updated": "17:58 MSK"
+    "updated": "18:03 MSK"
   }
 }
