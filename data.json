@@ -1,26 +1,62 @@
 {
-  "EPWA": {
-    "name": "Warsaw",
-    "region": "EUROPE",
-    "code": "EPWA",
-    "current": 19.0,
+  "S24": {
+    "name": "Singapore",
+    "region": "ASIA",
+    "code": "S24",
+    "current": 28.5,
     "unit": "C",
     "prob1": 50,
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "19:36 MSK"
+    "updated": "19:42 MSK"
   },
-  "LIMC": {
-    "name": "Milan",
-    "region": "EUROPE",
-    "code": "LIMC",
-    "current": 33.0,
+  "ZGGG": {
+    "name": "Guangzhou",
+    "region": "ASIA",
+    "code": "ZGGG",
+    "current": 32.0,
     "unit": "C",
     "prob1": 50,
     "prob2": 5,
     "trend": 0,
     "sky": "N/A",
-    "updated": "19:36 MSK"
+    "updated": "19:43 MSK"
+  },
+  "RJTT": {
+    "name": "Tokyo",
+    "region": "ASIA",
+    "code": "RJTT",
+    "current": 26.0,
+    "unit": "C",
+    "prob1": 50,
+    "prob2": 5,
+    "trend": 0,
+    "sky": "N/A",
+    "updated": "19:43 MSK"
+  },
+  "RCTP": {
+    "name": "Taipei",
+    "region": "ASIA",
+    "code": "RCTP",
+    "current": 29.0,
+    "unit": "C",
+    "prob1": 50,
+    "prob2": 5,
+    "trend": 0,
+    "sky": "N/A",
+    "updated": "19:43 MSK"
+  },
+  "RKSS": {
+    "name": "Seoul",
+    "region": "ASIA",
+    "code": "RKSS",
+    "current": 28.0,
+    "unit": "C",
+    "prob1": 50,
+    "prob2": 5,
+    "trend": 0,
+    "sky": "N/A",
+    "updated": "19:43 MSK"
   }
 }
