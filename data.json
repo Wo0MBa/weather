@@ -9,19 +9,19 @@
     "prob2": 5,
     "trend": 0.1,
     "sky": "Cloudy",
-    "updated": "15:58 MSK"
+    "updated": "16:04 MSK"
   },
   "S24": {
     "name": "Singapore",
     "region": "ASIA",
     "code": "S24",
-    "current": 29.1,
+    "current": 29.3,
     "unit": "C",
     "prob1": 5,
     "prob2": 5,
-    "trend": 0.0,
+    "trend": -0.3,
     "sky": "Cloudy",
-    "updated": "15:58 MSK"
+    "updated": "16:04 MSK"
   },
   "ZGSZ": {
     "name": "Shenzhen",
@@ -31,9 +31,9 @@
     "unit": "C",
     "prob1": 5,
     "prob2": 5,
-    "trend": -0.2,
+    "trend": -0.1,
     "sky": "Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "ZGGG": {
     "name": "Guangzhou",
@@ -45,7 +45,7 @@
     "prob2": 5,
     "trend": -0.2,
     "sky": "Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "RJTT": {
     "name": "Tokyo",
@@ -55,9 +55,9 @@
     "unit": "C",
     "prob1": 25,
     "prob2": 5,
-    "trend": 1.0,
+    "trend": 1.5,
     "sky": "P.Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "RCTP": {
     "name": "Taipei",
@@ -67,21 +67,21 @@
     "unit": "C",
     "prob1": 40,
     "prob2": 10,
-    "trend": 0.2,
+    "trend": 0.5,
     "sky": "Clear",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "RKSS": {
     "name": "Seoul",
     "region": "ASIA",
     "code": "RKSS",
-    "current": 29.0,
+    "current": 28.0,
     "unit": "C",
     "prob1": 25,
     "prob2": 5,
-    "trend": 0.3,
+    "trend": 1.1,
     "sky": "P.Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "LLBG": {
     "name": "Tel Aviv",
@@ -93,19 +93,19 @@
     "prob2": 20,
     "trend": -1.1,
     "sky": "P.Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "OEJN": {
     "name": "Jeddah",
     "region": "ASIA",
     "code": "OEJN",
-    "current": 37.0,
+    "current": 35.0,
     "unit": "C",
     "prob1": 65,
     "prob2": 35,
-    "trend": -0.8,
-    "sky": "Clear",
-    "updated": "15:59 MSK"
+    "trend": -0.7,
+    "sky": "P.Cloudy",
+    "updated": "16:04 MSK"
   },
   "UUWW": {
     "name": "Moscow",
@@ -115,9 +115,9 @@
     "unit": "C",
     "prob1": 20,
     "prob2": 5,
-    "trend": -1.2,
+    "trend": -1.1,
     "sky": "Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "EFHK": {
     "name": "Helsinki",
@@ -127,9 +127,9 @@
     "unit": "C",
     "prob1": 20,
     "prob2": 5,
-    "trend": -0.2,
+    "trend": -0.5,
     "sky": "Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
@@ -139,9 +139,9 @@
     "unit": "C",
     "prob1": 65,
     "prob2": 35,
-    "trend": -0.2,
+    "trend": -0.3,
     "sky": "Clear",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "EGLC": {
     "name": "London City",
@@ -149,11 +149,11 @@
     "code": "EGLC",
     "current": 23.0,
     "unit": "C",
-    "prob1": 85,
-    "prob2": 55,
-    "trend": 0.8,
+    "prob1": 65,
+    "prob2": 35,
+    "trend": -0.1,
     "sky": "Clear",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "LFPG": {
     "name": "Paris CDG",
@@ -163,9 +163,9 @@
     "unit": "C",
     "prob1": 40,
     "prob2": 10,
-    "trend": 0.3,
+    "trend": 0.4,
     "sky": "Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "LEMD": {
     "name": "Madrid",
@@ -173,11 +173,11 @@
     "code": "LEMD",
     "current": 31.0,
     "unit": "C",
-    "prob1": 85,
-    "prob2": 55,
-    "trend": 0.4,
+    "prob1": 65,
+    "prob2": 35,
+    "trend": 0.0,
     "sky": "Clear",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "EDDM": {
     "name": "Munich",
@@ -185,23 +185,23 @@
     "code": "EDDM",
     "current": 30.0,
     "unit": "C",
-    "prob1": 20,
-    "prob2": 5,
-    "trend": 0.0,
-    "sky": "P.Cloudy",
-    "updated": "15:59 MSK"
+    "prob1": 50,
+    "prob2": 20,
+    "trend": -0.9,
+    "sky": "Cloudy",
+    "updated": "16:04 MSK"
   },
   "EPWA": {
     "name": "Warsaw",
     "region": "EUROPE",
     "code": "EPWA",
-    "current": 22.0,
+    "current": 23.0,
     "unit": "C",
     "prob1": 20,
     "prob2": 5,
-    "trend": -0.2,
+    "trend": -0.1,
     "sky": "Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
   },
   "LIMC": {
     "name": "Milan",
@@ -211,9 +211,21 @@
     "unit": "C",
     "prob1": 20,
     "prob2": 5,
-    "trend": -0.1,
+    "trend": -0.7,
     "sky": "Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:04 MSK"
+  },
+  "LTAC": {
+    "name": "Ankara",
+    "region": "EUROPE",
+    "code": "LTAC",
+    "current": 32.0,
+    "unit": "C",
+    "prob1": 65,
+    "prob2": 35,
+    "trend": -2.8,
+    "sky": "Clear",
+    "updated": "16:04 MSK"
   },
   "LTBA": {
     "name": "Istanbul",
@@ -225,7 +237,7 @@
     "prob2": 20,
     "trend": -1.1,
     "sky": "P.Cloudy",
-    "updated": "15:59 MSK"
+    "updated": "16:05 MSK"
   },
   "FACT": {
     "name": "Cape Town",
@@ -235,8 +247,8 @@
     "unit": "C",
     "prob1": 65,
     "prob2": 35,
-    "trend": -1.4,
+    "trend": -2.1,
     "sky": "Clear",
-    "updated": "15:59 MSK"
+    "updated": "16:05 MSK"
   }
 }
