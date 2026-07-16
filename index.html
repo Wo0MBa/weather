@@ -12,6 +12,7 @@
         .bucket-cell { background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(255, 255, 255, 0.05); }
         .status-badge { font-size: 10px; font-weight: 900; padding: 2px 8px; border-radius: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
         .region-header { border-bottom: 2px solid #1e293b; padding-bottom: 0.5rem; margin-top: 2rem; margin-bottom: 1.5rem; }
+        .text-gradient { background: linear-gradient(to right, #3b82f6, #93c5fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
     </style>
 </head>
 <body class="p-4 md:p-10 min-h-screen">
@@ -19,9 +20,9 @@
         <header class="mb-12 flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
             <div>
                 <h1 class="text-4xl font-black tracking-tighter text-white">
-                    🌀 ALPHA <span class="text-gradient">SNIPER</span> <span class="text-[10px] bg-rose-600 text-white px-2 py-0.5 rounded align-middle uppercase tracking-widest font-bold text-center">Full Live</span>
+                    🌀 ALPHA <span class="text-gradient">SNIPER</span> <span class="text-[10px] bg-rose-600 text-white px-2 py-0.5 rounded align-middle uppercase tracking-widest font-bold text-center">Live</span>
                 </h1>
-                <p class="text-slate-500 text-xs mt-2 uppercase tracking-widest font-bold text-blue-400/80">49 Cities • Structural Anomalies • Global Scale</p>
+                <p class="text-slate-500 text-xs mt-2 uppercase tracking-widest font-bold text-blue-400/80">49 ГОРОДОВ • ФИЗИЧЕСКИЕ АНОМАЛИИ • ГЛОБАЛЬНЫЙ МОНИТОРИНГ</p>
             </div>
             <div id="lastUpdate" class="text-[10px] font-mono text-slate-500 bg-slate-900 px-4 py-2 rounded-full border border-slate-800">
                 СИНХРОНИЗАЦИЯ...
@@ -38,6 +39,18 @@
             "ASIA": "Азия и Океания",
             "EUROPE": "Европа и Африка",
             "AMERICAS": "Америка"
+        };
+
+        const EDGE_TRANSLATION = {
+            "NEUTRAL": "НЕЙТРАЛЬНО",
+            "UNDER (Dew Point Wall)": "НИЖЕ (Точка росы)",
+            "UNDER (Cooling Breeze)": "НИЖЕ (Морской бриз)"
+        };
+
+        const SKY_TRANSLATION = {
+            "CLEAR": "ЯСНО",
+            "CLOUDY": "ОБЛАЧНО",
+            "OVERCAST": "ПАСМУРНО"
         };
 
         async function loadData() {
@@ -75,6 +88,8 @@
             const isNeutral = !info.edge || info.edge === 'NEUTRAL';
             const edgeColor = isNeutral ? 'slate' : 'rose';
             const skyEmoji = info.sky === 'CLEAR' ? '☀️' : (info.sky === 'OVERCAST' ? '☁️' : '⛅');
+            const edgeText = EDGE_TRANSLATION[info.edge] || info.edge;
+            const skyText = SKY_TRANSLATION[info.sky] || info.sky;
             
             return `
                 <div class="glass rounded-3xl p-6 transition-all duration-300 hover:border-slate-500 group relative">
@@ -84,7 +99,7 @@
                             <p class="text-[10px] font-mono text-slate-500 uppercase">${info.icao}</p>
                         </div>
                         <div class="status-badge bg-${edgeColor}-500/10 text-${edgeColor}-400 border border-${edgeColor}-500/20">
-                            ${info.edge}
+                            ${edgeText}
                         </div>
                     </div>
 
@@ -99,28 +114,28 @@
                             </div>
                             <div class="text-right">
                                 <p class="text-2xl">${skyEmoji}</p>
-                                <p class="text-[10px] font-bold text-slate-400 uppercase">${info.sky}</p>
+                                <p class="text-[10px] font-bold text-slate-400 uppercase">${skyText}</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="grid grid-cols-2 gap-2 mb-6">
                         <div class="bucket-cell rounded-xl p-3">
-                            <p class="text-[8px] text-slate-500 font-bold uppercase mb-1">Poly Fav</p>
+                            <p class="text-[8px] text-slate-500 font-bold uppercase mb-1">Фаворит Poly</p>
                             <p class="text-sm font-black text-white leading-none">${info.poly_fav}</p>
-                            <p class="text-xs font-bold text-blue-500 mt-1">${info.poly_price ? (info.poly_price * 100).toFixed(0) + 'c' : '--'}</p>
+                            <p class="text-xs font-bold text-blue-500 mt-1">${info.poly_price ? (info.poly_price * 100).toFixed(0) + 'ц' : '--'}</p>
                         </div>
                         <div class="bucket-cell rounded-xl p-3">
-                            <p class="text-[8px] text-slate-500 font-bold uppercase mb-1">Dew Point Gap</p>
+                            <p class="text-[8px] text-slate-500 font-bold uppercase mb-1">Точка Росы</p>
                             <p class="text-sm font-black text-white leading-none">${info.dew_gap}°C</p>
-                            <p class="text-[10px] text-slate-400 mt-1">Wind: ${info.wind}</p>
+                            <p class="text-[10px] text-slate-400 mt-1">Ветер: ${info.wind}</p>
                         </div>
                     </div>
 
                     ${!isNeutral ? `
                         <div class="bg-rose-500/10 border border-rose-500/20 rounded-xl p-3">
-                            <p class="text-[10px] font-black text-rose-400 uppercase tracking-widest mb-1">🎯 TRADE SIGNAL</p>
-                            <p class="text-[11px] font-bold text-slate-200 leading-tight">Физика подтверждает ${info.edge}.</p>
+                            <p class="text-[10px] font-black text-rose-400 uppercase tracking-widest mb-1">🎯 СИГНАЛ К СДЕЛКЕ</p>
+                            <p class="text-[11px] font-bold text-slate-200 leading-tight">Физика подтверждает: ${edgeText}.</p>
                         </div>
                     ` : ''}
                 </div>
