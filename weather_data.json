@@ -345,7 +345,7 @@
     "dew_gap": 6.0,
     "wind": "20°/16kt",
     "poly_fav": "23°C",
-    "poly_price": 0.935,
+    "poly_price": 0.955,
     "edge": "UNDER (Морской бриз)",
     "updated_at": "16:06"
   },
@@ -403,7 +403,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.61,
     "edge": "NEUTRAL",
-    "updated_at": "16:06"
+    "updated_at": "16:07"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.73,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "16:06"
+    "updated_at": "16:07"
   },
   "Munich": {
     "city": "Munich",
@@ -431,7 +431,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.65,
     "edge": "NEUTRAL",
-    "updated_at": "16:06"
+    "updated_at": "16:07"
   },
   "London": {
     "city": "London",
@@ -445,7 +445,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.455,
     "edge": "NEUTRAL",
-    "updated_at": "16:06"
+    "updated_at": "16:07"
   },
   "Cape Town": {
     "city": "Cape Town",
