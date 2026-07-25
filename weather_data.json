@@ -11,7 +11,7 @@
     "poly_fav": "12°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "23:02"
+    "updated_at": "23:03"
   },
   "Busan": {
     "city": "Busan",
@@ -569,7 +569,7 @@
     "dew_gap": 16.0,
     "wind": "0°/0kt",
     "poly_fav": "98-99°F",
-    "poly_price": 0.635,
+    "poly_price": 0.665,
     "edge": "NEUTRAL",
     "updated_at": "23:03"
   },
