@@ -135,7 +135,7 @@
     "dew_gap": 10.0,
     "wind": "300°/7kt",
     "poly_fav": "35°C",
-    "poly_price": 0.425,
+    "poly_price": 0.48,
     "edge": "NEUTRAL",
     "updated_at": "06:40"
   },
@@ -303,7 +303,7 @@
     "dew_gap": 2.0,
     "wind": "60°/11kt",
     "poly_fav": "20°C",
-    "poly_price": 0.49,
+    "poly_price": 0.475,
     "edge": "NEUTRAL",
     "updated_at": "06:40"
   },
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "06:40"
+    "updated_at": "06:41"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.4,
     "edge": "NEUTRAL",
-    "updated_at": "06:40"
+    "updated_at": "06:41"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.335,
     "edge": "NEUTRAL",
-    "updated_at": "06:40"
+    "updated_at": "06:41"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.475,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "06:40"
+    "updated_at": "06:41"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "22°C",
     "poly_price": 0.43,
     "edge": "NEUTRAL",
-    "updated_at": "06:40"
+    "updated_at": "06:41"
   }
 }
