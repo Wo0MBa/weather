@@ -529,7 +529,7 @@
     "poly_fav": "79°F or below",
     "poly_price": 0.585,
     "edge": "NEUTRAL",
-    "updated_at": "23:40"
+    "updated_at": "23:41"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "23:40"
+    "updated_at": "23:41"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "92-93°F",
     "poly_price": 0.805,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "23:40"
+    "updated_at": "23:41"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.655,
     "edge": "NEUTRAL",
-    "updated_at": "23:40"
+    "updated_at": "23:41"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9145,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "23:40"
+    "updated_at": "23:41"
   },
   "Denver": {
     "city": "Denver",
