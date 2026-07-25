@@ -221,7 +221,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "06:15"
+    "updated_at": "06:16"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.69,
     "edge": "NEUTRAL",
-    "updated_at": "06:15"
+    "updated_at": "06:16"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.37,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "06:15"
+    "updated_at": "06:16"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.5,
     "edge": "NEUTRAL",
-    "updated_at": "06:15"
+    "updated_at": "06:16"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "23°C",
     "poly_price": 0.315,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "06:15"
+    "updated_at": "06:16"
   },
   "Helsinki": {
     "city": "Helsinki",
