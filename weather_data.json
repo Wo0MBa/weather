@@ -641,7 +641,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.48,
     "edge": "NEUTRAL",
-    "updated_at": "20:46"
+    "updated_at": "20:47"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.51,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "20:46"
+    "updated_at": "20:47"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "18°C",
     "poly_price": 0.865,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "20:46"
+    "updated_at": "20:47"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "21°C",
     "poly_price": 0.7,
     "edge": "NEUTRAL",
-    "updated_at": "20:46"
+    "updated_at": "20:47"
   }
 }
