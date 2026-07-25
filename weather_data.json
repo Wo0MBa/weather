@@ -249,7 +249,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.999,
     "edge": "NEUTRAL",
-    "updated_at": "16:12"
+    "updated_at": "16:13"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.997,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "16:12"
+    "updated_at": "16:13"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "23°C",
     "poly_price": 0.96,
     "edge": "NEUTRAL",
-    "updated_at": "16:12"
+    "updated_at": "16:13"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "19°C",
     "poly_price": 0.5,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "16:12"
+    "updated_at": "16:13"
   },
   "Ankara": {
     "city": "Ankara",
