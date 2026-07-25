@@ -7,7 +7,7 @@
     "max_today": 12.0,
     "sky": "OVERCAST",
     "dew_gap": 4.0,
-    "wind": "190°/24kt",
+    "wind": "190°/25kt",
     "poly_fav": "12°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
@@ -269,10 +269,10 @@
     "city": "Moscow",
     "icao": "UUWW",
     "region": "EUROPE",
-    "temp": 18.0,
-    "max_today": 18.0,
+    "temp": 19.0,
+    "max_today": 19.0,
     "sky": "CLEAR",
-    "dew_gap": 2.0,
+    "dew_gap": 3.0,
     "wind": "0°/0kt",
     "poly_fav": "22°C",
     "poly_price": 0.395,
@@ -655,7 +655,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.335,
     "edge": "NEUTRAL",
-    "updated_at": "09:34"
+    "updated_at": "09:35"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.485,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "09:34"
+    "updated_at": "09:35"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "22°C",
     "poly_price": 0.46,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "09:34"
+    "updated_at": "09:35"
   }
 }
