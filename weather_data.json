@@ -417,7 +417,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.405,
     "edge": "NEUTRAL",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "Munich": {
     "city": "Munich",
@@ -431,7 +431,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "London": {
     "city": "London",
@@ -445,7 +445,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.395,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "NYC": {
     "city": "NYC",
@@ -473,7 +473,7 @@
     "poly_fav": "82-83°F",
     "poly_price": 0.46,
     "edge": "NEUTRAL",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "Miami": {
     "city": "Miami",
@@ -487,7 +487,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.42,
     "edge": "NEUTRAL",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "Atlanta": {
     "city": "Atlanta",
@@ -501,7 +501,7 @@
     "poly_fav": "86-87°F",
     "poly_price": 0.385,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "Toronto": {
     "city": "Toronto",
@@ -515,7 +515,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.365,
     "edge": "NEUTRAL",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "82-83°F",
     "poly_price": 0.315,
     "edge": "NEUTRAL",
-    "updated_at": "06:09"
+    "updated_at": "06:10"
   },
   "Austin": {
     "city": "Austin",
