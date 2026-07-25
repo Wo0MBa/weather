@@ -361,7 +361,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.735,
     "edge": "NEUTRAL",
-    "updated_at": "14:08"
+    "updated_at": "14:09"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.495,
     "edge": "NEUTRAL",
-    "updated_at": "14:08"
+    "updated_at": "14:09"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.545,
     "edge": "NEUTRAL",
-    "updated_at": "14:08"
+    "updated_at": "14:09"
   },
   "Paris": {
     "city": "Paris",
@@ -661,7 +661,7 @@
     "city": "Buenos Aires",
     "icao": "SAEZ",
     "region": "AMERICAS",
-    "temp": 9.0,
+    "temp": 10.0,
     "max_today": 12.0,
     "sky": "OVERCAST",
     "dew_gap": 0.0,
