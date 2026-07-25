@@ -171,14 +171,14 @@
     "city": "Kuala Lumpur",
     "icao": "WMKK",
     "region": "ASIA",
-    "temp": 25.0,
+    "temp": null,
     "max_today": 27.0,
     "sky": "CLOUDY",
-    "dew_gap": 1.0,
+    "dew_gap": 0,
     "wind": "0°/0kt",
     "poly_fav": "30°C",
     "poly_price": 1.0,
-    "edge": "UNDER (Точка росы)",
+    "edge": "NEUTRAL",
     "updated_at": "21:42"
   },
   "Shanghai": {
@@ -283,14 +283,14 @@
     "city": "Helsinki",
     "icao": "EFHK",
     "region": "EUROPE",
-    "temp": null,
+    "temp": 16.0,
     "max_today": 20.0,
     "sky": "CLOUDY",
-    "dew_gap": 0,
-    "wind": "0°/0kt",
+    "dew_gap": 1.0,
+    "wind": "170°/9kt",
     "poly_fav": "20°C",
     "poly_price": 0.9995,
-    "edge": "NEUTRAL",
+    "edge": "UNDER (Морской бриз)",
     "updated_at": "21:42"
   },
   "Ankara": {
@@ -339,11 +339,11 @@
     "city": "Istanbul",
     "icao": "LTFM",
     "region": "EUROPE",
-    "temp": null,
+    "temp": 21.0,
     "max_today": 23.0,
     "sky": "CLOUDY",
-    "dew_gap": 0,
-    "wind": "0°/0kt",
+    "dew_gap": 4.0,
+    "wind": "340°/4kt",
     "poly_fav": "23°C",
     "poly_price": 0.989,
     "edge": "NEUTRAL",
@@ -571,7 +571,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.515,
     "edge": "NEUTRAL",
-    "updated_at": "21:42"
+    "updated_at": "21:43"
   },
   "Panama City": {
     "city": "Panama City",
@@ -583,9 +583,9 @@
     "dew_gap": 3.0,
     "wind": "290°/6kt",
     "poly_fav": "31°C",
-    "poly_price": 0.945,
+    "poly_price": 0.965,
     "edge": "NEUTRAL",
-    "updated_at": "21:42"
+    "updated_at": "21:43"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.685,
     "edge": "NEUTRAL",
-    "updated_at": "21:42"
+    "updated_at": "21:43"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.615,
     "edge": "NEUTRAL",
-    "updated_at": "21:42"
+    "updated_at": "21:43"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.66,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:42"
+    "updated_at": "21:43"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.655,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:42"
+    "updated_at": "21:43"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "21:42"
+    "updated_at": "21:43"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
