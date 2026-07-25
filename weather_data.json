@@ -311,11 +311,11 @@
     "city": "Tel Aviv",
     "icao": "LLBG",
     "region": "EUROPE",
-    "temp": 25.0,
+    "temp": null,
     "max_today": 27.0,
     "sky": "CLOUDY",
-    "dew_gap": 5.0,
-    "wind": "180°/9kt",
+    "dew_gap": 0,
+    "wind": "0°/0kt",
     "poly_fav": "34°C",
     "poly_price": 0.735,
     "edge": "NEUTRAL",
@@ -367,11 +367,11 @@
     "city": "Milan",
     "icao": "LIMC",
     "region": "EUROPE",
-    "temp": null,
+    "temp": 18.0,
     "max_today": 22.0,
-    "sky": "CLOUDY",
-    "dew_gap": 0,
-    "wind": "0°/0kt",
+    "sky": "CLEAR",
+    "dew_gap": 7.0,
+    "wind": "10°/6kt",
     "poly_fav": "30°C",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
@@ -501,7 +501,7 @@
     "poly_fav": "86-87°F",
     "poly_price": 0.385,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "06:46"
+    "updated_at": "06:47"
   },
   "Toronto": {
     "city": "Toronto",
@@ -515,7 +515,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.375,
     "edge": "NEUTRAL",
-    "updated_at": "06:46"
+    "updated_at": "06:47"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "82-83°F",
     "poly_price": 0.33,
     "edge": "NEUTRAL",
-    "updated_at": "06:46"
+    "updated_at": "06:47"
   },
   "Austin": {
     "city": "Austin",
