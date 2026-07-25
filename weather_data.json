@@ -613,7 +613,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "00:05"
+    "updated_at": "00:06"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.955,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "00:05"
+    "updated_at": "00:06"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.725,
     "edge": "NEUTRAL",
-    "updated_at": "00:05"
+    "updated_at": "00:06"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "00:05"
+    "updated_at": "00:06"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "18°C",
     "poly_price": 0.994,
     "edge": "NEUTRAL",
-    "updated_at": "00:05"
+    "updated_at": "00:06"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "21°C",
     "poly_price": 0.999,
     "edge": "NEUTRAL",
-    "updated_at": "00:05"
+    "updated_at": "00:06"
   }
 }
