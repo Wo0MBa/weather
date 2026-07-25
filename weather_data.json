@@ -269,10 +269,10 @@
     "city": "Moscow",
     "icao": "UUWW",
     "region": "EUROPE",
-    "temp": 17.0,
+    "temp": 15.0,
     "max_today": 23.0,
     "sky": "CLEAR",
-    "dew_gap": 6.0,
+    "dew_gap": 3.0,
     "wind": "0°/0kt",
     "poly_fav": "23°C",
     "poly_price": 0.9995,
@@ -499,7 +499,7 @@
     "dew_gap": 4.0,
     "wind": "250°/4kt",
     "poly_fav": "88-89°F",
-    "poly_price": 0.995,
+    "poly_price": 0.9895,
     "edge": "NEUTRAL",
     "updated_at": "23:34"
   },
@@ -669,7 +669,7 @@
     "poly_fav": "18°C",
     "poly_price": 0.994,
     "edge": "NEUTRAL",
-    "updated_at": "23:34"
+    "updated_at": "23:35"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "21°C",
     "poly_price": 0.997,
     "edge": "NEUTRAL",
-    "updated_at": "23:34"
+    "updated_at": "23:35"
   }
 }
