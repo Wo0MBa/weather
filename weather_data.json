@@ -45,11 +45,11 @@
     "city": "Tokyo",
     "icao": "RJTT",
     "region": "ASIA",
-    "temp": 28.0,
+    "temp": null,
     "max_today": 29.0,
-    "sky": "OVERCAST",
-    "dew_gap": 3.0,
-    "wind": "170°/5kt",
+    "sky": "CLOUDY",
+    "dew_gap": 0,
+    "wind": "0°/0kt",
     "poly_fav": "36°C or higher",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
@@ -683,6 +683,6 @@
     "poly_fav": "21°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "02:45"
+    "updated_at": "02:46"
   }
 }
