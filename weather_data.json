@@ -163,7 +163,7 @@
     "dew_gap": 3.0,
     "wind": "70°/17kt",
     "poly_fav": "34°C",
-    "poly_price": 0.998,
+    "poly_price": 0.9985,
     "edge": "NEUTRAL",
     "updated_at": "11:45"
   },
@@ -347,7 +347,7 @@
     "poly_fav": "23°C",
     "poly_price": 0.765,
     "edge": "NEUTRAL",
-    "updated_at": "11:45"
+    "updated_at": "11:46"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.645,
     "edge": "NEUTRAL",
-    "updated_at": "11:45"
+    "updated_at": "11:46"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.615,
     "edge": "NEUTRAL",
-    "updated_at": "11:45"
+    "updated_at": "11:46"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "11:45"
+    "updated_at": "11:46"
   },
   "Paris": {
     "city": "Paris",
@@ -403,7 +403,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.625,
     "edge": "NEUTRAL",
-    "updated_at": "11:45"
+    "updated_at": "11:46"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.415,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "11:45"
+    "updated_at": "11:46"
   },
   "Munich": {
     "city": "Munich",
@@ -527,7 +527,7 @@
     "dew_gap": 4.0,
     "wind": "170°/6kt",
     "poly_fav": "80-81°F",
-    "poly_price": 0.455,
+    "poly_price": 0.465,
     "edge": "NEUTRAL",
     "updated_at": "11:46"
   },
@@ -639,7 +639,7 @@
     "dew_gap": 3.0,
     "wind": "290°/10kt",
     "poly_fav": "70-71°F",
-    "poly_price": 0.425,
+    "poly_price": 0.43,
     "edge": "UNDER (Морской бриз)",
     "updated_at": "11:46"
   },
