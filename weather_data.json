@@ -401,7 +401,7 @@
     "dew_gap": 11.0,
     "wind": "230°/17kt",
     "poly_fav": "26°C",
-    "poly_price": 0.955,
+    "poly_price": 0.935,
     "edge": "NEUTRAL",
     "updated_at": "18:38"
   },
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.48,
     "edge": "NEUTRAL",
-    "updated_at": "18:38"
+    "updated_at": "18:39"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "72-73°F",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
-    "updated_at": "18:38"
+    "updated_at": "18:39"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.64,
     "edge": "NEUTRAL",
-    "updated_at": "18:38"
+    "updated_at": "18:39"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "24°C",
     "poly_price": 0.53,
     "edge": "NEUTRAL",
-    "updated_at": "18:38"
+    "updated_at": "18:39"
   }
 }
