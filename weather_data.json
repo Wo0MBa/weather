@@ -179,7 +179,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "04:34"
+    "updated_at": "04:35"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.48,
     "edge": "NEUTRAL",
-    "updated_at": "04:34"
+    "updated_at": "04:35"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -205,9 +205,9 @@
     "dew_gap": 3.0,
     "wind": "0°/0kt",
     "poly_fav": "29°C",
-    "poly_price": 0.805,
+    "poly_price": 0.8,
     "edge": "NEUTRAL",
-    "updated_at": "04:34"
+    "updated_at": "04:35"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -387,7 +387,7 @@
     "dew_gap": 3.0,
     "wind": "150°/7kt",
     "poly_fav": "30°C",
-    "poly_price": 0.455,
+    "poly_price": 0.45,
     "edge": "NEUTRAL",
     "updated_at": "04:35"
   },
@@ -526,8 +526,8 @@
     "sky": "OVERCAST",
     "dew_gap": 4.0,
     "wind": "190°/8kt",
-    "poly_fav": "90-91°F",
-    "poly_price": 0.295,
+    "poly_fav": "N/A",
+    "poly_price": 0,
     "edge": "NEUTRAL",
     "updated_at": "04:35"
   },
