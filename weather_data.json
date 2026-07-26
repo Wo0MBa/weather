@@ -137,7 +137,7 @@
     "poly_fav": "37°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:42"
+    "updated_at": "21:41"
   },
   "Singapore": {
     "city": "Singapore",
@@ -151,7 +151,7 @@
     "poly_fav": "30°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:42"
+    "updated_at": "21:41"
   },
   "Hong Kong": {
     "city": "Hong Kong",
@@ -359,7 +359,7 @@
     "dew_gap": 25.0,
     "wind": "60°/2kt",
     "poly_fav": "31°C",
-    "poly_price": 0.996,
+    "poly_price": 0.9945,
     "edge": "NEUTRAL",
     "updated_at": "21:42"
   },
