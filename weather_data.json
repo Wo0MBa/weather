@@ -179,7 +179,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "05:57"
+    "updated_at": "05:58"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.44,
     "edge": "NEUTRAL",
-    "updated_at": "05:57"
+    "updated_at": "05:58"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.875,
     "edge": "NEUTRAL",
-    "updated_at": "05:57"
+    "updated_at": "05:58"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.365,
     "edge": "NEUTRAL",
-    "updated_at": "05:57"
+    "updated_at": "05:58"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "05:57"
+    "updated_at": "05:58"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.44,
     "edge": "NEUTRAL",
-    "updated_at": "05:57"
+    "updated_at": "05:58"
   },
   "Karachi": {
     "city": "Karachi",
@@ -633,10 +633,10 @@
     "city": "San Francisco",
     "icao": "KSFO",
     "region": "AMERICAS",
-    "temp": 18.9,
+    "temp": 17.8,
     "max_today": 21.1,
     "sky": "CLOUDY",
-    "dew_gap": 6.0,
+    "dew_gap": 5.0,
     "wind": "0°/0kt",
     "poly_fav": "70-71°F",
     "poly_price": 0.36,
