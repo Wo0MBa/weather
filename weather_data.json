@@ -289,7 +289,7 @@
     "dew_gap": 4.0,
     "wind": "120°/9kt",
     "poly_fav": "19°C",
-    "poly_price": 0.81,
+    "poly_price": 0.825,
     "edge": "NEUTRAL",
     "updated_at": "17:43"
   },
@@ -400,8 +400,8 @@
     "sky": "OVERCAST",
     "dew_gap": 10.0,
     "wind": "230°/14kt",
-    "poly_fav": "24°C",
-    "poly_price": 0.51,
+    "poly_fav": "25°C",
+    "poly_price": 0.61,
     "edge": "NEUTRAL",
     "updated_at": "17:43"
   },
@@ -655,7 +655,7 @@
     "poly_fav": "72-73°F",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "17:43"
+    "updated_at": "17:44"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.55,
     "edge": "NEUTRAL",
-    "updated_at": "17:43"
+    "updated_at": "17:44"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "24°C",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "17:43"
+    "updated_at": "17:44"
   }
 }
