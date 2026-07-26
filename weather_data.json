@@ -121,7 +121,7 @@
     "dew_gap": 10.0,
     "wind": "0°/0kt",
     "poly_fav": "40°C",
-    "poly_price": 0.55,
+    "poly_price": 0.54,
     "edge": "NEUTRAL",
     "updated_at": "03:03"
   },
@@ -543,7 +543,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
-    "updated_at": "03:03"
+    "updated_at": "03:04"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.5,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "03:03"
+    "updated_at": "03:04"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.385,
     "edge": "NEUTRAL",
-    "updated_at": "03:03"
+    "updated_at": "03:04"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.355,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "03:03"
+    "updated_at": "03:04"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "03:03"
+    "updated_at": "03:04"
   },
   "Mexico City": {
     "city": "Mexico City",
