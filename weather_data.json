@@ -669,7 +669,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "06:52"
+    "updated_at": "06:53"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "24°C",
     "poly_price": 0.355,
     "edge": "NEUTRAL",
-    "updated_at": "06:52"
+    "updated_at": "06:53"
   }
 }
