@@ -527,7 +527,7 @@
     "dew_gap": 2.0,
     "wind": "210°/4kt",
     "poly_fav": "90-91°F",
-    "poly_price": 0.285,
+    "poly_price": 0.29,
     "edge": "NEUTRAL",
     "updated_at": "09:12"
   },
@@ -683,6 +683,6 @@
     "poly_fav": "24°C",
     "poly_price": 0.43,
     "edge": "NEUTRAL",
-    "updated_at": "09:12"
+    "updated_at": "09:13"
   }
 }
