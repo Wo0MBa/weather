@@ -11,7 +11,7 @@
     "poly_fav": "10°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "13:50"
+    "updated_at": "13:51"
   },
   "Busan": {
     "city": "Busan",
@@ -73,14 +73,14 @@
     "city": "Shenzhen",
     "icao": "ZGSZ",
     "region": "ASIA",
-    "temp": 26.0,
+    "temp": null,
     "max_today": 29.0,
-    "sky": "OVERCAST",
-    "dew_gap": 1.0,
+    "sky": "CLOUDY",
+    "dew_gap": 0,
     "wind": "0°/0kt",
     "poly_fav": "29°C",
     "poly_price": 0.9995,
-    "edge": "UNDER (Точка росы)",
+    "edge": "NEUTRAL",
     "updated_at": "13:51"
   },
   "Beijing": {
