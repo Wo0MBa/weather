@@ -3,14 +3,14 @@
     "city": "Wellington",
     "icao": "NZWN",
     "region": "ASIA",
-    "temp": null,
+    "temp": 3.0,
     "max_today": 5.0,
     "sky": "CLOUDY",
-    "dew_gap": 0,
-    "wind": "0°/0kt",
+    "dew_gap": 1.0,
+    "wind": "40°/5kt",
     "poly_fav": "10°C",
     "poly_price": 1.0,
-    "edge": "NEUTRAL",
+    "edge": "UNDER (Точка росы)",
     "updated_at": "19:02"
   },
   "Busan": {
@@ -263,7 +263,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "19°C",
     "poly_price": 0.995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Ankara": {
     "city": "Ankara",
@@ -305,7 +305,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.998,
     "edge": "NEUTRAL",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "40°C",
     "poly_price": 0.9975,
     "edge": "NEUTRAL",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -347,7 +347,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.97,
     "edge": "NEUTRAL",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.785,
     "edge": "NEUTRAL",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.9945,
     "edge": "NEUTRAL",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.742,
     "edge": "NEUTRAL",
-    "updated_at": "19:02"
+    "updated_at": "19:03"
   },
   "Paris": {
     "city": "Paris",
