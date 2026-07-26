@@ -471,7 +471,7 @@
     "dew_gap": 17.0,
     "wind": "90°/5kt",
     "poly_fav": "82-83°F",
-    "poly_price": 0.56,
+    "poly_price": 0.58,
     "edge": "NEUTRAL",
     "updated_at": "21:17"
   },
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.55,
     "edge": "NEUTRAL",
-    "updated_at": "21:17"
+    "updated_at": "21:18"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.48,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:17"
+    "updated_at": "21:18"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "72-73°F",
     "poly_price": 0.6,
     "edge": "NEUTRAL",
-    "updated_at": "21:17"
+    "updated_at": "21:18"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
