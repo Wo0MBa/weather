@@ -131,9 +131,9 @@
     "region": "ASIA",
     "temp": 29.0,
     "max_today": 34.0,
-    "sky": "OVERCAST",
+    "sky": "CLOUDY",
     "dew_gap": 4.0,
-    "wind": "210°/8kt",
+    "wind": "210°/6kt",
     "poly_fav": "37°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "16:36"
+    "updated_at": "16:37"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.47,
     "edge": "NEUTRAL",
-    "updated_at": "16:36"
+    "updated_at": "16:37"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "72-73°F",
     "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "16:36"
+    "updated_at": "16:37"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "16:36"
+    "updated_at": "16:37"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "24°C",
     "poly_price": 0.47,
     "edge": "NEUTRAL",
-    "updated_at": "16:36"
+    "updated_at": "16:37"
   }
 }
