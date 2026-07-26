@@ -11,7 +11,7 @@
     "poly_fav": "10°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.9975,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.765,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.98,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Beijing": {
     "city": "Beijing",
@@ -95,7 +95,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.985,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.98,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -123,7 +123,7 @@
     "poly_fav": "40°C",
     "poly_price": 0.645,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Taipei": {
     "city": "Taipei",
@@ -137,7 +137,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.994,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Singapore": {
     "city": "Singapore",
@@ -151,7 +151,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.915,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Hong Kong": {
     "city": "Hong Kong",
@@ -165,7 +165,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.905,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Kuala Lumpur": {
     "city": "Kuala Lumpur",
@@ -179,7 +179,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.935,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.9945,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.955,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.942,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.975,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.61,
     "edge": "NEUTRAL",
-    "updated_at": "10:49"
+    "updated_at": "10:50"
   },
   "Karachi": {
     "city": "Karachi",
@@ -345,7 +345,7 @@
     "dew_gap": 13.0,
     "wind": "320°/5kt",
     "poly_fav": "27°C",
-    "poly_price": 0.44,
+    "poly_price": 0.445,
     "edge": "NEUTRAL",
     "updated_at": "10:50"
   },
@@ -457,7 +457,7 @@
     "dew_gap": 4.0,
     "wind": "30°/4kt",
     "poly_fav": "21°C",
-    "poly_price": 0.43,
+    "poly_price": 0.425,
     "edge": "NEUTRAL",
     "updated_at": "10:50"
   },
