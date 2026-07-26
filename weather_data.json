@@ -193,7 +193,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.68,
     "edge": "NEUTRAL",
-    "updated_at": "07:22"
+    "updated_at": "07:23"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.92,
     "edge": "NEUTRAL",
-    "updated_at": "07:22"
+    "updated_at": "07:23"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.965,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "07:22"
+    "updated_at": "07:23"
   },
   "Manila": {
     "city": "Manila",
