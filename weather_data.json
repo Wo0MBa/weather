@@ -347,7 +347,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.997,
     "edge": "NEUTRAL",
-    "updated_at": "00:26"
+    "updated_at": "00:27"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "00:26"
+    "updated_at": "00:27"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "00:26"
+    "updated_at": "00:27"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -611,7 +611,7 @@
     "dew_gap": 16.0,
     "wind": "80°/22kt",
     "poly_fav": "25°C",
-    "poly_price": 0.6,
+    "poly_price": 0.465,
     "edge": "NEUTRAL",
     "updated_at": "00:27"
   },
