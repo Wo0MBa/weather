@@ -109,7 +109,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.345,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -123,7 +123,7 @@
     "poly_fav": "40°C",
     "poly_price": 0.605,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Taipei": {
     "city": "Taipei",
@@ -137,7 +137,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.365,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Singapore": {
     "city": "Singapore",
@@ -151,7 +151,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.45,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Hong Kong": {
     "city": "Hong Kong",
@@ -165,7 +165,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.695,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Kuala Lumpur": {
     "city": "Kuala Lumpur",
@@ -179,7 +179,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.425,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.46,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.825,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "33°C or higher",
     "poly_price": 0.335,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.39,
     "edge": "NEUTRAL",
-    "updated_at": "03:33"
+    "updated_at": "03:34"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -653,7 +653,7 @@
     "dew_gap": 11.0,
     "wind": "0°/0kt",
     "poly_fav": "70-71°F",
-    "poly_price": 0.29,
+    "poly_price": 0.295,
     "edge": "NEUTRAL",
     "updated_at": "03:34"
   },
