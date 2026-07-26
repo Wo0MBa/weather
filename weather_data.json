@@ -479,14 +479,14 @@
     "city": "Miami",
     "icao": "KMIA",
     "region": "AMERICAS",
-    "temp": 26.1,
+    "temp": 28.3,
     "max_today": 34.4,
     "sky": "OVERCAST",
-    "dew_gap": 1.0,
-    "wind": "170°/5kt",
+    "dew_gap": 4.0,
+    "wind": "0°/0kt",
     "poly_fav": "94-95°F",
     "poly_price": 0.999,
-    "edge": "UNDER (Точка росы)",
+    "edge": "NEUTRAL",
     "updated_at": "22:55"
   },
   "Atlanta": {
@@ -683,6 +683,6 @@
     "poly_fav": "25°C",
     "poly_price": 0.98,
     "edge": "NEUTRAL",
-    "updated_at": "22:55"
+    "updated_at": "22:56"
   }
 }
