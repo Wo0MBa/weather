@@ -11,7 +11,7 @@
     "poly_fav": "10°C",
     "poly_price": 0.9895,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "07:28"
+    "updated_at": "07:29"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.945,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "07:28"
+    "updated_at": "07:29"
   },
   "Seoul": {
     "city": "Seoul",
@@ -37,9 +37,9 @@
     "dew_gap": 6.0,
     "wind": "230°/11kt",
     "poly_fav": "31°C",
-    "poly_price": 0.615,
+    "poly_price": 0.595,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "07:28"
+    "updated_at": "07:29"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.9945,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "07:28"
+    "updated_at": "07:29"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.455,
     "edge": "NEUTRAL",
-    "updated_at": "07:28"
+    "updated_at": "07:29"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.875,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "07:28"
+    "updated_at": "07:29"
   },
   "Beijing": {
     "city": "Beijing",
