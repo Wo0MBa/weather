@@ -271,7 +271,7 @@
     "region": "EUROPE",
     "temp": 16.0,
     "max_today": 16.0,
-    "sky": "CLOUDY",
+    "sky": "OVERCAST",
     "dew_gap": 1.0,
     "wind": "0°/0kt",
     "poly_fav": "20°C",
@@ -613,7 +613,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.9955,
     "edge": "NEUTRAL",
-    "updated_at": "02:34"
+    "updated_at": "02:35"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.985,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "02:34"
+    "updated_at": "02:35"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.895,
     "edge": "NEUTRAL",
-    "updated_at": "02:34"
+    "updated_at": "02:35"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "72-73°F",
     "poly_price": 0.935,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "02:34"
+    "updated_at": "02:35"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "02:34"
+    "updated_at": "02:35"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "25°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "02:34"
+    "updated_at": "02:35"
   }
 }
