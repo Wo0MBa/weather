@@ -585,7 +585,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.4,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "12:37"
+    "updated_at": "12:38"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "102-103°F",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "12:37"
+    "updated_at": "12:38"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.535,
     "edge": "NEUTRAL",
-    "updated_at": "12:37"
+    "updated_at": "12:38"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.565,
     "edge": "NEUTRAL",
-    "updated_at": "12:37"
+    "updated_at": "12:38"
   },
   "San Francisco": {
     "city": "San Francisco",
