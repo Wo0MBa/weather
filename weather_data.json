@@ -11,7 +11,7 @@
     "poly_fav": "10°C",
     "poly_price": 0.845,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Busan": {
     "city": "Busan",
@@ -23,9 +23,9 @@
     "dew_gap": 8.0,
     "wind": "290°/4kt",
     "poly_fav": "36°C",
-    "poly_price": 0.505,
+    "poly_price": 0.52,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.355,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.39,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.81,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Beijing": {
     "city": "Beijing",
@@ -95,7 +95,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.42,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.34,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -123,7 +123,7 @@
     "poly_fav": "40°C",
     "poly_price": 0.57,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Taipei": {
     "city": "Taipei",
@@ -137,7 +137,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.365,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Singapore": {
     "city": "Singapore",
@@ -151,7 +151,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.375,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Hong Kong": {
     "city": "Hong Kong",
@@ -165,7 +165,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.74,
     "edge": "NEUTRAL",
-    "updated_at": "04:40"
+    "updated_at": "04:41"
   },
   "Kuala Lumpur": {
     "city": "Kuala Lumpur",
