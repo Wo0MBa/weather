@@ -473,7 +473,7 @@
     "poly_fav": "82-83°F",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Miami": {
     "city": "Miami",
@@ -487,7 +487,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.495,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Atlanta": {
     "city": "Atlanta",
@@ -501,7 +501,7 @@
     "poly_fav": "92-93°F",
     "poly_price": 0.315,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Toronto": {
     "city": "Toronto",
@@ -515,7 +515,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.33,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "88-89°F",
     "poly_price": 0.445,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.54,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.525,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.39,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "09:54"
+    "updated_at": "09:55"
   },
   "Los Angeles": {
     "city": "Los Angeles",
