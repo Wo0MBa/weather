@@ -93,7 +93,7 @@
     "dew_gap": 11.0,
     "wind": "0°/0kt",
     "poly_fav": "34°C",
-    "poly_price": 0.965,
+    "poly_price": 0.98,
     "edge": "NEUTRAL",
     "updated_at": "11:29"
   },
@@ -235,7 +235,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9975,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "11:29"
+    "updated_at": "11:30"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.645,
     "edge": "NEUTRAL",
-    "updated_at": "11:29"
+    "updated_at": "11:30"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.785,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "11:29"
+    "updated_at": "11:30"
   },
   "Moscow": {
     "city": "Moscow",
