@@ -599,7 +599,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.43,
     "edge": "NEUTRAL",
-    "updated_at": "08:12"
+    "updated_at": "08:13"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.42,
     "edge": "NEUTRAL",
-    "updated_at": "08:12"
+    "updated_at": "08:13"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.535,
     "edge": "NEUTRAL",
-    "updated_at": "08:12"
+    "updated_at": "08:13"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.4,
     "edge": "NEUTRAL",
-    "updated_at": "08:12"
+    "updated_at": "08:13"
   },
   "Seattle": {
     "city": "Seattle",
