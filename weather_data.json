@@ -39,7 +39,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "17:48"
+    "updated_at": "17:49"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "17:48"
+    "updated_at": "17:49"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "17:48"
+    "updated_at": "17:49"
   },
   "Shenzhen": {
     "city": "Shenzhen",
