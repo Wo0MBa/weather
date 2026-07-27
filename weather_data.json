@@ -345,7 +345,7 @@
     "dew_gap": 5.0,
     "wind": "190°/10kt",
     "poly_fav": "32°C",
-    "poly_price": 0.38,
+    "poly_price": 0.385,
     "edge": "NEUTRAL",
     "updated_at": "04:42"
   },
@@ -655,7 +655,7 @@
     "poly_fav": "76-77°F",
     "poly_price": 0.365,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "04:42"
+    "updated_at": "04:43"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "19°C",
     "poly_price": 0.39,
     "edge": "NEUTRAL",
-    "updated_at": "04:42"
+    "updated_at": "04:43"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "27°C",
     "poly_price": 0.39,
     "edge": "NEUTRAL",
-    "updated_at": "04:42"
+    "updated_at": "04:43"
   }
 }
