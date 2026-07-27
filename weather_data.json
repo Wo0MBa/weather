@@ -389,7 +389,7 @@
     "poly_fav": "22°C",
     "poly_price": 0.43,
     "edge": "NEUTRAL",
-    "updated_at": "06:50"
+    "updated_at": "06:51"
   },
   "Paris": {
     "city": "Paris",
@@ -403,7 +403,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.515,
     "edge": "NEUTRAL",
-    "updated_at": "06:50"
+    "updated_at": "06:51"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "21°C",
     "poly_price": 0.495,
     "edge": "NEUTRAL",
-    "updated_at": "06:50"
+    "updated_at": "06:51"
   },
   "Munich": {
     "city": "Munich",
@@ -639,7 +639,7 @@
     "dew_gap": 4.0,
     "wind": "0°/0kt",
     "poly_fav": "68-69°F",
-    "poly_price": 0.405,
+    "poly_price": 0.4,
     "edge": "NEUTRAL",
     "updated_at": "06:51"
   },
