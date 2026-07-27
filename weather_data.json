@@ -515,7 +515,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.395,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.35,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.645,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.57,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.65,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.43,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.46,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.54,
     "edge": "NEUTRAL",
-    "updated_at": "16:46"
+    "updated_at": "16:47"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
