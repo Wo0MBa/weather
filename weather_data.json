@@ -305,7 +305,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.3,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.615,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "40°C or higher",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -347,7 +347,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.35,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.52,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.585,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "22°C",
     "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Paris": {
     "city": "Paris",
@@ -403,7 +403,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.565,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "21°C",
     "poly_price": 0.5,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "Munich": {
     "city": "Munich",
@@ -431,7 +431,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.405,
     "edge": "NEUTRAL",
-    "updated_at": "03:59"
+    "updated_at": "04:00"
   },
   "London": {
     "city": "London",
