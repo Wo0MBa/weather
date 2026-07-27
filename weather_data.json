@@ -146,12 +146,12 @@
     "temp": 31.0,
     "max_today": 31.0,
     "sky": "OVERCAST",
-    "dew_gap": 7.0,
-    "wind": "120°/12kt",
+    "dew_gap": 9.0,
+    "wind": "110°/12kt",
     "poly_fav": "31°C",
     "poly_price": 0.85,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Hong Kong": {
     "city": "Hong Kong",
@@ -165,7 +165,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.755,
     "edge": "NEUTRAL",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Kuala Lumpur": {
     "city": "Kuala Lumpur",
@@ -179,7 +179,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.865,
     "edge": "NEUTRAL",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.965,
     "edge": "NEUTRAL",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.965,
     "edge": "NEUTRAL",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.945,
     "edge": "NEUTRAL",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.988,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.385,
     "edge": "NEUTRAL",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.535,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "22°C or higher",
     "poly_price": 0.985,
     "edge": "NEUTRAL",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.52,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "10:00"
+    "updated_at": "10:01"
   },
   "Ankara": {
     "city": "Ankara",
@@ -471,7 +471,7 @@
     "dew_gap": 7.0,
     "wind": "200°/6kt",
     "poly_fav": "82-83°F",
-    "poly_price": 0.445,
+    "poly_price": 0.435,
     "edge": "NEUTRAL",
     "updated_at": "10:01"
   },
