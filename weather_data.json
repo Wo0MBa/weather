@@ -11,7 +11,7 @@
     "poly_fav": "11°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "35°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "31°C",
     "poly_price": 1.0,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "30°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "30°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "31°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Beijing": {
     "city": "Beijing",
@@ -95,7 +95,7 @@
     "poly_fav": "34°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "32°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -123,7 +123,7 @@
     "poly_fav": "40°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Taipei": {
     "city": "Taipei",
@@ -135,9 +135,9 @@
     "dew_gap": 1.0,
     "wind": "0°/0kt",
     "poly_fav": "35°C",
-    "poly_price": 0.9995,
+    "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:28"
   },
   "Singapore": {
     "city": "Singapore",
@@ -151,7 +151,7 @@
     "poly_fav": "32°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Hong Kong": {
     "city": "Hong Kong",
@@ -165,7 +165,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Kuala Lumpur": {
     "city": "Kuala Lumpur",
@@ -179,7 +179,7 @@
     "poly_fav": "33°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "32°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "32°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "33°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "22°C or higher",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,21 +291,21 @@
     "poly_fav": "21°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Ankara": {
     "city": "Ankara",
     "icao": "LTAC",
     "region": "EUROPE",
-    "temp": 23.0,
+    "temp": 22.0,
     "max_today": 28.0,
     "sky": "CLEAR",
-    "dew_gap": 14.0,
-    "wind": "250°/3kt",
+    "dew_gap": 13.0,
+    "wind": "0°/0kt",
     "poly_fav": "28°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,21 +333,21 @@
     "poly_fav": "40°C or higher",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Istanbul": {
     "city": "Istanbul",
     "icao": "LTFM",
     "region": "EUROPE",
-    "temp": 27.0,
+    "temp": 26.0,
     "max_today": 32.0,
     "sky": "CLEAR",
-    "dew_gap": 15.0,
+    "dew_gap": 14.0,
     "wind": "190°/9kt",
     "poly_fav": "32°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:22"
+    "updated_at": "21:29"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,21 +361,21 @@
     "poly_fav": "35°C",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Milan": {
     "city": "Milan",
     "icao": "LIMC",
     "region": "EUROPE",
-    "temp": 32.0,
+    "temp": 31.0,
     "max_today": 33.0,
     "sky": "CLEAR",
-    "dew_gap": 21.0,
-    "wind": "260°/6kt",
+    "dew_gap": 19.0,
+    "wind": "250°/4kt",
     "poly_fav": "33°C",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "23°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Paris": {
     "city": "Paris",
@@ -401,9 +401,9 @@
     "dew_gap": 16.0,
     "wind": "310°/7kt",
     "poly_fav": "27°C",
-    "poly_price": 0.994,
+    "poly_price": 0.995,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -412,12 +412,12 @@
     "temp": 19.0,
     "max_today": 21.0,
     "sky": "CLOUDY",
-    "dew_gap": 7.0,
-    "wind": "280°/11kt",
+    "dew_gap": 8.0,
+    "wind": "270°/9kt",
     "poly_fav": "21°C",
-    "poly_price": 0.9985,
+    "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Munich": {
     "city": "Munich",
@@ -427,25 +427,25 @@
     "max_today": 25.0,
     "sky": "CLEAR",
     "dew_gap": 12.0,
-    "wind": "290°/6kt",
+    "wind": "280°/4kt",
     "poly_fav": "25°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "London": {
     "city": "London",
     "icao": "EGLC",
     "region": "EUROPE",
-    "temp": 27.0,
+    "temp": 26.0,
     "max_today": 27.0,
     "sky": "CLEAR",
-    "dew_gap": 17.0,
-    "wind": "250°/8kt",
+    "dew_gap": 14.0,
+    "wind": "290°/9kt",
     "poly_fav": "27°C",
-    "poly_price": 0.9945,
+    "poly_price": 0.995,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "NYC": {
     "city": "NYC",
@@ -471,9 +471,9 @@
     "dew_gap": 10.0,
     "wind": "140°/10kt",
     "poly_fav": "84-85°F",
-    "poly_price": 0.855,
+    "poly_price": 0.865,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Miami": {
     "city": "Miami",
@@ -485,9 +485,9 @@
     "dew_gap": 8.0,
     "wind": "260°/8kt",
     "poly_fav": "90-91°F",
-    "poly_price": 0.74,
+    "poly_price": 0.75,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Atlanta": {
     "city": "Atlanta",
@@ -499,9 +499,9 @@
     "dew_gap": 5.0,
     "wind": "310°/6kt",
     "poly_fav": "90-91°F",
-    "poly_price": 0.4,
+    "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Toronto": {
     "city": "Toronto",
@@ -513,23 +513,23 @@
     "dew_gap": 9.0,
     "wind": "0°/0kt",
     "poly_fav": "29°C",
-    "poly_price": 0.87,
+    "poly_price": 0.88,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Chicago": {
     "city": "Chicago",
     "icao": "KORD",
     "region": "AMERICAS",
-    "temp": 23.9,
+    "temp": 22.2,
     "max_today": 29.4,
     "sky": "OVERCAST",
-    "dew_gap": 4.0,
+    "dew_gap": 1.0,
     "wind": "0°/0kt",
     "poly_fav": "84-85°F",
     "poly_price": 0.767,
-    "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "edge": "UNDER (Точка росы)",
+    "updated_at": "21:29"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.615,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Houston": {
     "city": "Houston",
@@ -554,10 +554,10 @@
     "sky": "CLOUDY",
     "dew_gap": 9.0,
     "wind": "240°/6kt",
-    "poly_fav": "96-97°F",
-    "poly_price": 0.47,
+    "poly_fav": "94-95°F",
+    "poly_price": 0.5,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Dallas": {
     "city": "Dallas",
@@ -569,9 +569,9 @@
     "dew_gap": 14.0,
     "wind": "190°/3kt",
     "poly_fav": "100-101°F",
-    "poly_price": 0.635,
+    "poly_price": 0.625,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Panama City": {
     "city": "Panama City",
@@ -583,9 +583,9 @@
     "dew_gap": 7.0,
     "wind": "200°/4kt",
     "poly_fav": "32°C",
-    "poly_price": 0.92,
+    "poly_price": 0.925,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "92-93°F",
     "poly_price": 0.595,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -611,9 +611,9 @@
     "dew_gap": 10.0,
     "wind": "0°/0kt",
     "poly_fav": "24°C",
-    "poly_price": 0.545,
+    "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -625,9 +625,9 @@
     "dew_gap": 7.0,
     "wind": "240°/8kt",
     "poly_fav": "78-79°F",
-    "poly_price": 0.68,
+    "poly_price": 0.66,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -639,9 +639,9 @@
     "dew_gap": 5.0,
     "wind": "0°/0kt",
     "poly_fav": "68-69°F",
-    "poly_price": 0.59,
+    "poly_price": 0.585,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Seattle": {
     "city": "Seattle",
@@ -653,9 +653,9 @@
     "dew_gap": 8.0,
     "wind": "210°/9kt",
     "poly_fav": "78-79°F",
-    "poly_price": 0.575,
+    "poly_price": 0.59,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -667,9 +667,9 @@
     "dew_gap": 4.0,
     "wind": "310°/4kt",
     "poly_fav": "18°C",
-    "poly_price": 0.58,
+    "poly_price": 0.585,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -681,8 +681,8 @@
     "dew_gap": 16.0,
     "wind": "290°/5kt",
     "poly_fav": "28°C",
-    "poly_price": 0.985,
+    "poly_price": 0.975,
     "edge": "NEUTRAL",
-    "updated_at": "21:23"
+    "updated_at": "21:29"
   }
 }
