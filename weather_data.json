@@ -381,11 +381,11 @@
     "city": "Warsaw",
     "icao": "EPWA",
     "region": "EUROPE",
-    "temp": 19.0,
+    "temp": null,
     "max_today": 23.0,
     "sky": "CLOUDY",
-    "dew_gap": 2.0,
-    "wind": "260°/10kt",
+    "dew_gap": 0,
+    "wind": "0°/0kt",
     "poly_fav": "23°C",
     "poly_price": 0.99,
     "edge": "NEUTRAL",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.635,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Houston": {
     "city": "Houston",
@@ -555,9 +555,9 @@
     "dew_gap": 2.0,
     "wind": "270°/3kt",
     "poly_fav": "96-97°F",
-    "poly_price": 0.56,
+    "poly_price": 0.565,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.65,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.415,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.47,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.46,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "19°C",
     "poly_price": 0.465,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "16:21"
+    "updated_at": "16:22"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
