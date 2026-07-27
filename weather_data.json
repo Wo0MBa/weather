@@ -277,7 +277,7 @@
     "poly_fav": "22°C or higher",
     "poly_price": 0.985,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "20°C",
     "poly_price": 0.44,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Ankara": {
     "city": "Ankara",
@@ -305,7 +305,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.305,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.71,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "40°C or higher",
     "poly_price": 0.64,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -347,7 +347,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.375,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.665,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.61,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "22°C",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Paris": {
     "city": "Paris",
@@ -403,7 +403,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "21°C",
     "poly_price": 0.495,
     "edge": "NEUTRAL",
-    "updated_at": "09:03"
+    "updated_at": "09:04"
   },
   "Munich": {
     "city": "Munich",
