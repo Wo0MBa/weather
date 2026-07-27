@@ -557,7 +557,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.445,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "04:48"
+    "updated_at": "04:49"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,21 +571,21 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "04:48"
+    "updated_at": "04:49"
   },
   "Panama City": {
     "city": "Panama City",
     "icao": "MPMG",
     "region": "AMERICAS",
-    "temp": 28.0,
+    "temp": null,
     "max_today": 32.0,
     "sky": "CLOUDY",
-    "dew_gap": 3.0,
-    "wind": "320°/7kt",
+    "dew_gap": 0,
+    "wind": "0°/0kt",
     "poly_fav": "31°C",
     "poly_price": 0.415,
     "edge": "NEUTRAL",
-    "updated_at": "04:48"
+    "updated_at": "04:49"
   },
   "Denver": {
     "city": "Denver",
