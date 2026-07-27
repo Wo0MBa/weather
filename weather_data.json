@@ -219,7 +219,7 @@
     "dew_gap": 7.0,
     "wind": "0°/0kt",
     "poly_fav": "32°C",
-    "poly_price": 0.96,
+    "poly_price": 0.99,
     "edge": "NEUTRAL",
     "updated_at": "11:23"
   },
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "11:23"
+    "updated_at": "11:24"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.615,
     "edge": "NEUTRAL",
-    "updated_at": "11:23"
+    "updated_at": "11:24"
   },
   "Dallas": {
     "city": "Dallas",
