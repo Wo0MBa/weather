@@ -11,7 +11,7 @@
     "poly_fav": "11°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:34"
+    "updated_at": "21:35"
   },
   "Busan": {
     "city": "Busan",
@@ -202,7 +202,7 @@
     "temp": 27.0,
     "max_today": 29.0,
     "sky": "CLEAR",
-    "dew_gap": 2.0,
+    "dew_gap": 3.0,
     "wind": "0°/0kt",
     "poly_fav": "32°C",
     "poly_price": 1.0,
@@ -583,7 +583,7 @@
     "dew_gap": 7.0,
     "wind": "200°/4kt",
     "poly_fav": "32°C",
-    "poly_price": 0.935,
+    "poly_price": 0.94,
     "edge": "NEUTRAL",
     "updated_at": "21:35"
   },
