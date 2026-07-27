@@ -95,7 +95,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.48,
     "edge": "NEUTRAL",
-    "updated_at": "07:02"
+    "updated_at": "07:03"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.385,
     "edge": "NEUTRAL",
-    "updated_at": "07:02"
+    "updated_at": "07:03"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -653,7 +653,7 @@
     "dew_gap": 3.0,
     "wind": "210°/5kt",
     "poly_fav": "76-77°F",
-    "poly_price": 0.385,
+    "poly_price": 0.395,
     "edge": "NEUTRAL",
     "updated_at": "07:03"
   },
