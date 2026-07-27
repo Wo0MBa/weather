@@ -93,7 +93,7 @@
     "dew_gap": 8.0,
     "wind": "0°/0kt",
     "poly_fav": "34°C",
-    "poly_price": 0.47,
+    "poly_price": 0.48,
     "edge": "NEUTRAL",
     "updated_at": "06:44"
   },
@@ -247,7 +247,7 @@
     "dew_gap": 1.0,
     "wind": "250°/3kt",
     "poly_fav": "33°C",
-    "poly_price": 0.43,
+    "poly_price": 0.41,
     "edge": "UNDER (Точка росы)",
     "updated_at": "06:44"
   },
@@ -487,7 +487,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "06:44"
+    "updated_at": "06:45"
   },
   "Atlanta": {
     "city": "Atlanta",
@@ -501,7 +501,7 @@
     "poly_fav": "92-93°F",
     "poly_price": 0.335,
     "edge": "NEUTRAL",
-    "updated_at": "06:44"
+    "updated_at": "06:45"
   },
   "Toronto": {
     "city": "Toronto",
@@ -515,7 +515,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.34,
     "edge": "NEUTRAL",
-    "updated_at": "06:44"
+    "updated_at": "06:45"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "88-89°F",
     "poly_price": 0.3,
     "edge": "NEUTRAL",
-    "updated_at": "06:44"
+    "updated_at": "06:45"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.5,
     "edge": "NEUTRAL",
-    "updated_at": "06:44"
+    "updated_at": "06:45"
   },
   "Houston": {
     "city": "Houston",
