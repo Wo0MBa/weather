@@ -417,7 +417,7 @@
     "poly_fav": "21°C",
     "poly_price": 0.92,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "18:45"
+    "updated_at": "18:46"
   },
   "Munich": {
     "city": "Munich",
@@ -431,7 +431,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.965,
     "edge": "NEUTRAL",
-    "updated_at": "18:45"
+    "updated_at": "18:46"
   },
   "London": {
     "city": "London",
@@ -445,7 +445,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.515,
     "edge": "NEUTRAL",
-    "updated_at": "18:45"
+    "updated_at": "18:46"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "18:45"
+    "updated_at": "18:46"
   },
   "NYC": {
     "city": "NYC",
