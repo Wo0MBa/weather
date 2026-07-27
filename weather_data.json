@@ -319,7 +319,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.975,
     "edge": "NEUTRAL",
-    "updated_at": "15:12"
+    "updated_at": "15:13"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "40°C or higher",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "15:12"
+    "updated_at": "15:13"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -359,7 +359,7 @@
     "dew_gap": 23.0,
     "wind": "180°/5kt",
     "poly_fav": "34°C",
-    "poly_price": 0.68,
+    "poly_price": 0.685,
     "edge": "NEUTRAL",
     "updated_at": "15:13"
   },
