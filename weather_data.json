@@ -179,7 +179,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.997,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "22°C or higher",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "21°C",
     "poly_price": 0.99,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Ankara": {
     "city": "Ankara",
@@ -305,7 +305,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.96,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.9975,
     "edge": "NEUTRAL",
-    "updated_at": "17:42"
+    "updated_at": "17:43"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -359,7 +359,7 @@
     "dew_gap": 26.0,
     "wind": "280°/5kt",
     "poly_fav": "34°C",
-    "poly_price": 0.865,
+    "poly_price": 0.875,
     "edge": "NEUTRAL",
     "updated_at": "17:43"
   },
@@ -499,7 +499,7 @@
     "dew_gap": 3.0,
     "wind": "0°/0kt",
     "poly_fav": "92-93°F",
-    "poly_price": 0.545,
+    "poly_price": 0.555,
     "edge": "NEUTRAL",
     "updated_at": "17:43"
   },
