@@ -36,8 +36,8 @@
     "sky": "OVERCAST",
     "dew_gap": 4.0,
     "wind": "200°/10kt",
-    "poly_fav": "31°C",
-    "poly_price": 0.5,
+    "poly_fav": "N/A",
+    "poly_price": 0,
     "edge": "NEUTRAL",
     "updated_at": "04:30"
   },
