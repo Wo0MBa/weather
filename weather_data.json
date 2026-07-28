@@ -11,7 +11,7 @@
     "poly_fav": "13°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "10:04"
+    "updated_at": "10:05"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.9965,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:04"
+    "updated_at": "10:05"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.95,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:04"
+    "updated_at": "10:05"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -571,7 +571,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.44,
     "edge": "NEUTRAL",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.345,
     "edge": "NEUTRAL",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.575,
     "edge": "NEUTRAL",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "70-71°F",
     "poly_price": 0.41,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "74-75°F",
     "poly_price": 0.53,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "18°C",
     "poly_price": 0.395,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "29°C",
     "poly_price": 0.46,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "10:05"
+    "updated_at": "10:06"
   }
 }
