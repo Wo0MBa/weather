@@ -123,7 +123,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.745,
     "edge": "NEUTRAL",
-    "updated_at": "10:28"
+    "updated_at": "10:29"
   },
   "Taipei": {
     "city": "Taipei",
@@ -137,7 +137,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.995,
     "edge": "NEUTRAL",
-    "updated_at": "10:28"
+    "updated_at": "10:29"
   },
   "Singapore": {
     "city": "Singapore",
@@ -149,9 +149,9 @@
     "dew_gap": 7.0,
     "wind": "120°/9kt",
     "poly_fav": "32°C",
-    "poly_price": 0.975,
+    "poly_price": 0.995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:28"
+    "updated_at": "10:29"
   },
   "Hong Kong": {
     "city": "Hong Kong",
