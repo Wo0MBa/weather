@@ -51,7 +51,7 @@
     "dew_gap": 13.0,
     "wind": "190°/9kt",
     "poly_fav": "34°C",
-    "poly_price": 0.994,
+    "poly_price": 0.995,
     "edge": "UNDER (Морской бриз)",
     "updated_at": "10:41"
   },
@@ -177,7 +177,7 @@
     "dew_gap": 5.0,
     "wind": "0°/0kt",
     "poly_fav": "31°C",
-    "poly_price": 0.865,
+    "poly_price": 0.895,
     "edge": "NEUTRAL",
     "updated_at": "10:41"
   },
@@ -219,7 +219,7 @@
     "dew_gap": 6.0,
     "wind": "0°/0kt",
     "poly_fav": "33°C",
-    "poly_price": 0.95,
+    "poly_price": 0.985,
     "edge": "NEUTRAL",
     "updated_at": "10:41"
   },
@@ -235,7 +235,7 @@
     "poly_fav": "27°C or below",
     "poly_price": 0.952,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.47,
     "edge": "NEUTRAL",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.5,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "18°C",
     "poly_price": 0.365,
     "edge": "NEUTRAL",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.585,
     "edge": "NEUTRAL",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Ankara": {
     "city": "Ankara",
@@ -305,7 +305,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.565,
     "edge": "NEUTRAL",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.665,
     "edge": "NEUTRAL",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -347,7 +347,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.74,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.665,
     "edge": "NEUTRAL",
-    "updated_at": "10:41"
+    "updated_at": "10:42"
   },
   "Milan": {
     "city": "Milan",
