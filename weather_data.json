@@ -11,7 +11,7 @@
     "poly_fav": "12°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "21:26"
+    "updated_at": "21:27"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:26"
+    "updated_at": "21:27"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "21:26"
+    "updated_at": "21:27"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:26"
+    "updated_at": "21:27"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "34°C or higher",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "21:26"
+    "updated_at": "21:27"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -115,10 +115,10 @@
     "city": "Chongqing",
     "icao": "ZUCK",
     "region": "ASIA",
-    "temp": null,
+    "temp": 31.0,
     "max_today": 33.0,
-    "sky": "CLOUDY",
-    "dew_gap": 0,
+    "sky": "CLEAR",
+    "dew_gap": 11.0,
     "wind": "0°/0kt",
     "poly_fav": "39°C",
     "poly_price": 0.9995,
@@ -591,11 +591,11 @@
     "city": "Denver",
     "icao": "KBKF",
     "region": "AMERICAS",
-    "temp": 31.3,
-    "max_today": 31.3,
+    "temp": null,
+    "max_today": 30.7,
     "sky": "CLOUDY",
-    "dew_gap": 17.0,
-    "wind": "60°/7kt",
+    "dew_gap": 0,
+    "wind": "0°/0kt",
     "poly_fav": "92-93°F",
     "poly_price": 0.525,
     "edge": "NEUTRAL",
@@ -669,7 +669,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.955,
     "edge": "NEUTRAL",
-    "updated_at": "21:27"
+    "updated_at": "21:28"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "30°C",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "21:27"
+    "updated_at": "21:28"
   }
 }
