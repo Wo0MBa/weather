@@ -81,7 +81,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.9945,
     "edge": "NEUTRAL",
-    "updated_at": "13:44"
+    "updated_at": "13:45"
   },
   "Beijing": {
     "city": "Beijing",
@@ -95,7 +95,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.999,
     "edge": "NEUTRAL",
-    "updated_at": "13:44"
+    "updated_at": "13:45"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.998,
     "edge": "NEUTRAL",
-    "updated_at": "13:44"
+    "updated_at": "13:45"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -387,7 +387,7 @@
     "dew_gap": 10.0,
     "wind": "260°/7kt",
     "poly_fav": "26°C",
-    "poly_price": 0.57,
+    "poly_price": 0.525,
     "edge": "NEUTRAL",
     "updated_at": "13:45"
   },
@@ -515,7 +515,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "13:45"
+    "updated_at": "13:46"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "80-81°F",
     "poly_price": 0.53,
     "edge": "NEUTRAL",
-    "updated_at": "13:45"
+    "updated_at": "13:46"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.605,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "13:45"
+    "updated_at": "13:46"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "13:45"
+    "updated_at": "13:46"
   },
   "Dallas": {
     "city": "Dallas",
