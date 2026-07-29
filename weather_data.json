@@ -611,7 +611,7 @@
     "dew_gap": 10.0,
     "wind": "70°/5kt",
     "poly_fav": "25°C",
-    "poly_price": 0.505,
+    "poly_price": 0.5,
     "edge": "NEUTRAL",
     "updated_at": "20:49"
   },
@@ -669,7 +669,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.65,
     "edge": "NEUTRAL",
-    "updated_at": "20:49"
+    "updated_at": "20:50"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "30°C",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "20:49"
+    "updated_at": "20:50"
   }
 }
