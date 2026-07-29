@@ -263,7 +263,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.445,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "09:42"
+    "updated_at": "09:43"
   },
   "Moscow": {
     "city": "Moscow",
@@ -585,7 +585,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.48,
     "edge": "NEUTRAL",
-    "updated_at": "09:43"
+    "updated_at": "09:44"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "09:43"
+    "updated_at": "09:44"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "09:43"
+    "updated_at": "09:44"
   },
   "Los Angeles": {
     "city": "Los Angeles",
