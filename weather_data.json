@@ -3,15 +3,15 @@
     "city": "Wellington",
     "icao": "NZWN",
     "region": "ASIA",
-    "temp": 11.0,
+    "temp": null,
     "max_today": 12.0,
-    "sky": "OVERCAST",
-    "dew_gap": 2.0,
-    "wind": "20°/17kt",
+    "sky": "CLOUDY",
+    "dew_gap": 0,
+    "wind": "0°/0kt",
     "poly_fav": "12°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "00:59"
+    "updated_at": "01:00"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "39°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "00:59"
+    "updated_at": "01:00"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "00:59"
+    "updated_at": "01:00"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "34°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "00:59"
+    "updated_at": "01:00"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "34°C or higher",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "00:59"
+    "updated_at": "01:00"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "28°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "00:59"
+    "updated_at": "01:00"
   },
   "Beijing": {
     "city": "Beijing",
@@ -473,7 +473,7 @@
     "poly_fav": "80-81°F",
     "poly_price": 0.994,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Miami": {
     "city": "Miami",
@@ -485,9 +485,9 @@
     "dew_gap": 10.0,
     "wind": "0°/0kt",
     "poly_fav": "94-95°F",
-    "poly_price": 0.995,
+    "poly_price": 0.996,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Atlanta": {
     "city": "Atlanta",
@@ -501,7 +501,7 @@
     "poly_fav": "88-89°F",
     "poly_price": 0.845,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Toronto": {
     "city": "Toronto",
@@ -515,7 +515,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "80-81°F",
     "poly_price": 0.975,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.51,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.85,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.93,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9945,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.9945,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.935,
     "edge": "NEUTRAL",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.945,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "01:00"
+    "updated_at": "01:01"
   },
   "Seattle": {
     "city": "Seattle",
