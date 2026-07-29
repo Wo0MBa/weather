@@ -233,7 +233,7 @@
     "dew_gap": 1.0,
     "wind": "270°/3kt",
     "poly_fav": "27°C or below",
-    "poly_price": 0.995,
+    "poly_price": 0.9945,
     "edge": "UNDER (Точка росы)",
     "updated_at": "13:19"
   },
