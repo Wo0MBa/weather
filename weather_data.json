@@ -11,7 +11,7 @@
     "poly_fav": "12°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "01:51"
+    "updated_at": "01:52"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "39°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "01:51"
+    "updated_at": "01:52"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "01:51"
+    "updated_at": "01:52"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "34°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "01:51"
+    "updated_at": "01:52"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -315,7 +315,7 @@
     "max_today": 28.0,
     "sky": "CLEAR",
     "dew_gap": 4.0,
-    "wind": "0°/0kt",
+    "wind": "150°/5kt",
     "poly_fav": "33°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
@@ -655,7 +655,7 @@
     "poly_fav": "76-77°F",
     "poly_price": 0.63,
     "edge": "NEUTRAL",
-    "updated_at": "01:52"
+    "updated_at": "01:53"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "01:52"
+    "updated_at": "01:53"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "30°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "01:52"
+    "updated_at": "01:53"
   }
 }
