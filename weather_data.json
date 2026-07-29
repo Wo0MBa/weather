@@ -109,7 +109,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "09:17"
+    "updated_at": "09:18"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -123,7 +123,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "09:17"
+    "updated_at": "09:18"
   },
   "Taipei": {
     "city": "Taipei",
@@ -137,7 +137,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.945,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "09:17"
+    "updated_at": "09:18"
   },
   "Singapore": {
     "city": "Singapore",
@@ -151,7 +151,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.965,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "09:17"
+    "updated_at": "09:18"
   },
   "Hong Kong": {
     "city": "Hong Kong",
@@ -165,7 +165,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.74,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "09:17"
+    "updated_at": "09:18"
   },
   "Kuala Lumpur": {
     "city": "Kuala Lumpur",
@@ -179,7 +179,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.645,
     "edge": "NEUTRAL",
-    "updated_at": "09:17"
+    "updated_at": "09:18"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.635,
     "edge": "NEUTRAL",
-    "updated_at": "09:17"
+    "updated_at": "09:18"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -347,7 +347,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.76,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "09:18"
+    "updated_at": "09:19"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.74,
     "edge": "NEUTRAL",
-    "updated_at": "09:18"
+    "updated_at": "09:19"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.67,
     "edge": "NEUTRAL",
-    "updated_at": "09:18"
+    "updated_at": "09:19"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.565,
     "edge": "NEUTRAL",
-    "updated_at": "09:18"
+    "updated_at": "09:19"
   },
   "Paris": {
     "city": "Paris",
@@ -403,7 +403,7 @@
     "poly_fav": "38°C",
     "poly_price": 0.54,
     "edge": "NEUTRAL",
-    "updated_at": "09:18"
+    "updated_at": "09:19"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.42,
     "edge": "NEUTRAL",
-    "updated_at": "09:18"
+    "updated_at": "09:19"
   },
   "Munich": {
     "city": "Munich",
@@ -451,14 +451,14 @@
     "city": "Cape Town",
     "icao": "FACT",
     "region": "EUROPE",
-    "temp": 5.0,
+    "temp": null,
     "max_today": 12.0,
-    "sky": "CLEAR",
-    "dew_gap": 1.0,
+    "sky": "CLOUDY",
+    "dew_gap": 0,
     "wind": "0°/0kt",
     "poly_fav": "20°C",
     "poly_price": 0.395,
-    "edge": "UNDER (Точка росы)",
+    "edge": "NEUTRAL",
     "updated_at": "09:19"
   },
   "NYC": {
@@ -557,7 +557,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.48,
     "edge": "NEUTRAL",
-    "updated_at": "09:19"
+    "updated_at": "09:20"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.455,
     "edge": "NEUTRAL",
-    "updated_at": "09:19"
+    "updated_at": "09:20"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.48,
     "edge": "NEUTRAL",
-    "updated_at": "09:19"
+    "updated_at": "09:20"
   },
   "Denver": {
     "city": "Denver",
@@ -599,7 +599,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.43,
     "edge": "NEUTRAL",
-    "updated_at": "09:19"
+    "updated_at": "09:20"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "09:19"
+    "updated_at": "09:20"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.5,
     "edge": "NEUTRAL",
-    "updated_at": "09:19"
+    "updated_at": "09:20"
   },
   "San Francisco": {
     "city": "San Francisco",
