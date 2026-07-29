@@ -207,7 +207,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "13:58"
+    "updated_at": "13:59"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "13:58"
+    "updated_at": "13:59"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "27°C or below",
     "poly_price": 0.995,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "13:58"
+    "updated_at": "13:59"
   },
   "Lucknow": {
     "city": "Lucknow",
