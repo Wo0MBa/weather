@@ -191,7 +191,7 @@
     "dew_gap": 7.0,
     "wind": "0°/0kt",
     "poly_fav": "36°C",
-    "poly_price": 0.545,
+    "poly_price": 0.55,
     "edge": "NEUTRAL",
     "updated_at": "03:52"
   },
@@ -501,7 +501,7 @@
     "poly_fav": "90-91°F",
     "poly_price": 0.375,
     "edge": "NEUTRAL",
-    "updated_at": "03:52"
+    "updated_at": "03:53"
   },
   "Toronto": {
     "city": "Toronto",
@@ -515,21 +515,21 @@
     "poly_fav": "26°C",
     "poly_price": 0.455,
     "edge": "NEUTRAL",
-    "updated_at": "03:52"
+    "updated_at": "03:53"
   },
   "Chicago": {
     "city": "Chicago",
     "icao": "KORD",
     "region": "AMERICAS",
-    "temp": 23.3,
+    "temp": null,
     "max_today": 26.1,
     "sky": "CLOUDY",
-    "dew_gap": 11.0,
-    "wind": "20°/12kt",
+    "dew_gap": 0,
+    "wind": "0°/0kt",
     "poly_fav": "80-81°F",
     "poly_price": 0.465,
-    "edge": "UNDER (Морской бриз)",
-    "updated_at": "03:52"
+    "edge": "NEUTRAL",
+    "updated_at": "03:53"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.515,
     "edge": "NEUTRAL",
-    "updated_at": "03:52"
+    "updated_at": "03:53"
   },
   "Houston": {
     "city": "Houston",
