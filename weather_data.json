@@ -291,7 +291,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.998,
     "edge": "NEUTRAL",
-    "updated_at": "19:40"
+    "updated_at": "19:41"
   },
   "Ankara": {
     "city": "Ankara",
@@ -305,7 +305,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "19:40"
+    "updated_at": "19:41"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "19:40"
+    "updated_at": "19:41"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "40°C",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "19:40"
+    "updated_at": "19:41"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -605,11 +605,11 @@
     "city": "Mexico City",
     "icao": "MMMX",
     "region": "AMERICAS",
-    "temp": 20.0,
-    "max_today": 20.0,
+    "temp": 22.0,
+    "max_today": 22.0,
     "sky": "CLOUDY",
-    "dew_gap": 9.0,
-    "wind": "110°/5kt",
+    "dew_gap": 10.0,
+    "wind": "80°/8kt",
     "poly_fav": "25°C",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
