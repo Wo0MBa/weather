@@ -11,7 +11,7 @@
     "poly_fav": "12°C",
     "poly_price": 0.997,
     "edge": "NEUTRAL",
-    "updated_at": "14:57"
+    "updated_at": "14:58"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "14:57"
+    "updated_at": "14:58"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "14:57"
+    "updated_at": "14:58"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "14:57"
+    "updated_at": "14:58"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "34°C or higher",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "14:57"
+    "updated_at": "14:58"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.9955,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "14:57"
+    "updated_at": "14:58"
   },
   "Beijing": {
     "city": "Beijing",
@@ -303,7 +303,7 @@
     "dew_gap": 22.0,
     "wind": "60°/14kt",
     "poly_fav": "29°C",
-    "poly_price": 0.58,
+    "poly_price": 0.475,
     "edge": "NEUTRAL",
     "updated_at": "14:58"
   },
@@ -429,7 +429,7 @@
     "dew_gap": 17.0,
     "wind": "170°/4kt",
     "poly_fav": "34°C",
-    "poly_price": 0.575,
+    "poly_price": 0.66,
     "edge": "NEUTRAL",
     "updated_at": "14:58"
   },
@@ -541,7 +541,7 @@
     "dew_gap": 1.0,
     "wind": "0°/0kt",
     "poly_fav": "98-99°F",
-    "poly_price": 0.59,
+    "poly_price": 0.615,
     "edge": "UNDER (Точка росы)",
     "updated_at": "14:58"
   },
@@ -641,7 +641,7 @@
     "poly_fav": "68-69°F",
     "poly_price": 0.45,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "14:58"
+    "updated_at": "14:59"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "76-77°F",
     "poly_price": 0.605,
     "edge": "NEUTRAL",
-    "updated_at": "14:58"
+    "updated_at": "14:59"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "16°C",
     "poly_price": 0.435,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "14:58"
+    "updated_at": "14:59"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "29°C",
     "poly_price": 0.325,
     "edge": "NEUTRAL",
-    "updated_at": "14:58"
+    "updated_at": "14:59"
   }
 }
