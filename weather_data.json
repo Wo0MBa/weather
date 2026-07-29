@@ -65,7 +65,7 @@
     "dew_gap": 12.0,
     "wind": "0°/0kt",
     "poly_fav": "34°C or higher",
-    "poly_price": 0.9975,
+    "poly_price": 0.9995,
     "edge": "NEUTRAL",
     "updated_at": "11:19"
   },
@@ -445,7 +445,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.44,
     "edge": "NEUTRAL",
-    "updated_at": "11:19"
+    "updated_at": "11:20"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "21°C",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "11:19"
+    "updated_at": "11:20"
   },
   "NYC": {
     "city": "NYC",
@@ -473,7 +473,7 @@
     "poly_fav": "80-81°F",
     "poly_price": 0.37,
     "edge": "NEUTRAL",
-    "updated_at": "11:19"
+    "updated_at": "11:20"
   },
   "Miami": {
     "city": "Miami",
@@ -487,7 +487,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.54,
     "edge": "NEUTRAL",
-    "updated_at": "11:19"
+    "updated_at": "11:20"
   },
   "Atlanta": {
     "city": "Atlanta",
@@ -501,7 +501,7 @@
     "poly_fav": "92-93°F",
     "poly_price": 0.425,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "11:19"
+    "updated_at": "11:20"
   },
   "Toronto": {
     "city": "Toronto",
