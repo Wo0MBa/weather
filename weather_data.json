@@ -219,7 +219,7 @@
     "dew_gap": 6.0,
     "wind": "0°/0kt",
     "poly_fav": "34°C",
-    "poly_price": 0.495,
+    "poly_price": 0.525,
     "edge": "NEUTRAL",
     "updated_at": "05:32"
   },
@@ -249,7 +249,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.455,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "22°C",
     "poly_price": 0.42,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "24°C",
     "poly_price": 0.48,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Ankara": {
     "city": "Ankara",
@@ -305,7 +305,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.605,
     "edge": "NEUTRAL",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.625,
     "edge": "NEUTRAL",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "40°C",
     "poly_price": 0.37,
     "edge": "NEUTRAL",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -347,7 +347,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.63,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.795,
     "edge": "NEUTRAL",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "05:32"
+    "updated_at": "05:33"
   },
   "Warsaw": {
     "city": "Warsaw",
