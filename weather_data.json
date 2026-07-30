@@ -25,7 +25,7 @@
     "poly_fav": "38°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "19:54"
+    "updated_at": "19:55"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 1.0,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "19:54"
+    "updated_at": "19:55"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "35°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "19:54"
+    "updated_at": "19:55"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "28°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "19:54"
+    "updated_at": "19:55"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "32°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "19:54"
+    "updated_at": "19:55"
   },
   "Beijing": {
     "city": "Beijing",
@@ -95,7 +95,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "19:54"
+    "updated_at": "19:55"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "34°C",
     "poly_price": 1.0,
     "edge": "NEUTRAL",
-    "updated_at": "19:54"
+    "updated_at": "19:55"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -297,11 +297,11 @@
     "city": "Ankara",
     "icao": "LTAC",
     "region": "EUROPE",
-    "temp": 23.0,
+    "temp": 22.0,
     "max_today": 27.0,
     "sky": "CLEAR",
-    "dew_gap": 14.0,
-    "wind": "90°/14kt",
+    "dew_gap": 12.0,
+    "wind": "80°/14kt",
     "poly_fav": "27°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
@@ -343,7 +343,7 @@
     "max_today": 26.0,
     "sky": "CLEAR",
     "dew_gap": 10.0,
-    "wind": "50°/20kt",
+    "wind": "50°/17kt",
     "poly_fav": "26°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
@@ -479,11 +479,11 @@
     "city": "Miami",
     "icao": "KMIA",
     "region": "AMERICAS",
-    "temp": 33.3,
-    "max_today": 33.3,
+    "temp": 33.9,
+    "max_today": 33.9,
     "sky": "OVERCAST",
-    "dew_gap": 10.0,
-    "wind": "0°/0kt",
+    "dew_gap": 12.0,
+    "wind": "240°/11kt",
     "poly_fav": "94-95°F",
     "poly_price": 0.675,
     "edge": "NEUTRAL",
