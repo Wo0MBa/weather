@@ -7,7 +7,7 @@
     "max_today": 13.0,
     "sky": "OVERCAST",
     "dew_gap": 3.0,
-    "wind": "350°/21kt",
+    "wind": "350°/19kt",
     "poly_fav": "14°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
@@ -417,7 +417,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.995,
     "edge": "NEUTRAL",
-    "updated_at": "17:04"
+    "updated_at": "17:05"
   },
   "Munich": {
     "city": "Munich",
@@ -431,7 +431,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.95,
     "edge": "NEUTRAL",
-    "updated_at": "17:04"
+    "updated_at": "17:05"
   },
   "London": {
     "city": "London",
@@ -445,7 +445,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.845,
     "edge": "NEUTRAL",
-    "updated_at": "17:04"
+    "updated_at": "17:05"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "21°C",
     "poly_price": 0.9945,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "17:04"
+    "updated_at": "17:05"
   },
   "NYC": {
     "city": "NYC",
