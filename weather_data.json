@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Tokyo": {
     "city": "Tokyo",
@@ -53,7 +53,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.415,
     "edge": "NEUTRAL",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.69,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.45,
     "edge": "NEUTRAL",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Beijing": {
     "city": "Beijing",
@@ -95,7 +95,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.42,
     "edge": "NEUTRAL",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.455,
     "edge": "NEUTRAL",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Chongqing": {
     "city": "Chongqing",
@@ -123,7 +123,7 @@
     "poly_fav": "39°C",
     "poly_price": 0.475,
     "edge": "NEUTRAL",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Taipei": {
     "city": "Taipei",
@@ -137,7 +137,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.345,
     "edge": "NEUTRAL",
-    "updated_at": "05:01"
+    "updated_at": "05:02"
   },
   "Singapore": {
     "city": "Singapore",
