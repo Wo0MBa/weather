@@ -501,7 +501,7 @@
     "poly_fav": "88-89°F",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "02:51"
+    "updated_at": "02:52"
   },
   "Toronto": {
     "city": "Toronto",
@@ -515,7 +515,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.9685,
     "edge": "NEUTRAL",
-    "updated_at": "02:51"
+    "updated_at": "02:52"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "86-87°F",
     "poly_price": 0.9985,
     "edge": "NEUTRAL",
-    "updated_at": "02:51"
+    "updated_at": "02:52"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "100-101°F",
     "poly_price": 0.9955,
     "edge": "NEUTRAL",
-    "updated_at": "02:51"
+    "updated_at": "02:52"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.9955,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "02:51"
+    "updated_at": "02:52"
   },
   "Dallas": {
     "city": "Dallas",
@@ -571,7 +571,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.9875,
     "edge": "NEUTRAL",
-    "updated_at": "02:51"
+    "updated_at": "02:52"
   },
   "Panama City": {
     "city": "Panama City",
@@ -585,7 +585,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.9995,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "02:51"
+    "updated_at": "02:52"
   },
   "Denver": {
     "city": "Denver",
