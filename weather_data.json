@@ -515,7 +515,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "14:24"
+    "updated_at": "14:25"
   },
   "Chicago": {
     "city": "Chicago",
@@ -529,7 +529,7 @@
     "poly_fav": "86-87°F",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "14:24"
+    "updated_at": "14:25"
   },
   "Austin": {
     "city": "Austin",
@@ -543,7 +543,7 @@
     "poly_fav": "98-99°F",
     "poly_price": 0.565,
     "edge": "NEUTRAL",
-    "updated_at": "14:24"
+    "updated_at": "14:25"
   },
   "Houston": {
     "city": "Houston",
@@ -557,7 +557,7 @@
     "poly_fav": "96-97°F",
     "poly_price": 0.67,
     "edge": "NEUTRAL",
-    "updated_at": "14:24"
+    "updated_at": "14:25"
   },
   "Dallas": {
     "city": "Dallas",
