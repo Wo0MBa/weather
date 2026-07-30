@@ -655,7 +655,7 @@
     "poly_fav": "76-77°F",
     "poly_price": 0.815,
     "edge": "NEUTRAL",
-    "updated_at": "02:33"
+    "updated_at": "02:34"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "17°C",
     "poly_price": 0.999,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "02:33"
+    "updated_at": "02:34"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "22°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
-    "updated_at": "02:33"
+    "updated_at": "02:34"
   }
 }
