@@ -11,7 +11,7 @@
     "poly_fav": "14°C",
     "poly_price": 0.9695,
     "edge": "NEUTRAL",
-    "updated_at": "08:50"
+    "updated_at": "08:51"
   },
   "Busan": {
     "city": "Busan",
@@ -25,7 +25,7 @@
     "poly_fav": "38°C",
     "poly_price": 0.875,
     "edge": "NEUTRAL",
-    "updated_at": "08:50"
+    "updated_at": "08:51"
   },
   "Seoul": {
     "city": "Seoul",
@@ -39,7 +39,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.94,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "08:50"
+    "updated_at": "08:51"
   },
   "Tokyo": {
     "city": "Tokyo",
