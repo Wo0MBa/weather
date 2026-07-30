@@ -199,14 +199,14 @@
     "city": "Guangzhou",
     "icao": "ZGGG",
     "region": "ASIA",
-    "temp": 26.0,
+    "temp": null,
     "max_today": 32.0,
     "sky": "CLOUDY",
-    "dew_gap": 1.0,
+    "dew_gap": 0,
     "wind": "0°/0kt",
     "poly_fav": "32°C",
     "poly_price": 0.9995,
-    "edge": "UNDER (Точка росы)",
+    "edge": "NEUTRAL",
     "updated_at": "17:23"
   },
   "Qingdao": {
@@ -241,11 +241,11 @@
     "city": "Lucknow",
     "icao": "VILK",
     "region": "ASIA",
-    "temp": null,
+    "temp": 31.0,
     "max_today": 34.0,
     "sky": "CLOUDY",
-    "dew_gap": 0,
-    "wind": "0°/0kt",
+    "dew_gap": 4.0,
+    "wind": "90°/7kt",
     "poly_fav": "34°C",
     "poly_price": 0.9995,
     "edge": "NEUTRAL",
@@ -297,11 +297,11 @@
     "city": "Ankara",
     "icao": "LTAC",
     "region": "EUROPE",
-    "temp": null,
+    "temp": 27.0,
     "max_today": 27.0,
-    "sky": "CLOUDY",
-    "dew_gap": 0,
-    "wind": "0°/0kt",
+    "sky": "CLEAR",
+    "dew_gap": 19.0,
+    "wind": "70°/12kt",
     "poly_fav": "27°C",
     "poly_price": 0.96,
     "edge": "NEUTRAL",
@@ -403,7 +403,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.75,
     "edge": "NEUTRAL",
-    "updated_at": "17:23"
+    "updated_at": "17:24"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.9975,
     "edge": "NEUTRAL",
-    "updated_at": "17:23"
+    "updated_at": "17:24"
   },
   "Munich": {
     "city": "Munich",
@@ -431,7 +431,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.945,
     "edge": "NEUTRAL",
-    "updated_at": "17:23"
+    "updated_at": "17:24"
   },
   "London": {
     "city": "London",
