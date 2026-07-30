@@ -445,7 +445,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.425,
     "edge": "NEUTRAL",
-    "updated_at": "13:59"
+    "updated_at": "14:00"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "22°C",
     "poly_price": 0.39,
     "edge": "NEUTRAL",
-    "updated_at": "13:59"
+    "updated_at": "14:00"
   },
   "NYC": {
     "city": "NYC",
@@ -473,7 +473,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.415,
     "edge": "NEUTRAL",
-    "updated_at": "13:59"
+    "updated_at": "14:00"
   },
   "Miami": {
     "city": "Miami",
@@ -487,7 +487,7 @@
     "poly_fav": "94-95°F",
     "poly_price": 0.56,
     "edge": "NEUTRAL",
-    "updated_at": "13:59"
+    "updated_at": "14:00"
   },
   "Atlanta": {
     "city": "Atlanta",
@@ -653,7 +653,7 @@
     "dew_gap": 2.0,
     "wind": "0°/0kt",
     "poly_fav": "76-77°F",
-    "poly_price": 0.51,
+    "poly_price": 0.515,
     "edge": "NEUTRAL",
     "updated_at": "14:00"
   },
