@@ -37,7 +37,7 @@
     "dew_gap": 4.0,
     "wind": "210°/8kt",
     "poly_fav": "31°C",
-    "poly_price": 0.615,
+    "poly_price": 0.605,
     "edge": "NEUTRAL",
     "updated_at": "05:42"
   },
@@ -207,7 +207,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.33,
     "edge": "NEUTRAL",
-    "updated_at": "05:42"
+    "updated_at": "05:43"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "05:42"
+    "updated_at": "05:43"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.435,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "05:42"
+    "updated_at": "05:43"
   },
   "Lucknow": {
     "city": "Lucknow",
