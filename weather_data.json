@@ -107,7 +107,7 @@
     "dew_gap": 7.0,
     "wind": "0°/0kt",
     "poly_fav": "35°C",
-    "poly_price": 0.48,
+    "poly_price": 0.485,
     "edge": "NEUTRAL",
     "updated_at": "04:04"
   },
@@ -179,7 +179,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.505,
     "edge": "NEUTRAL",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.47,
     "edge": "NEUTRAL",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "31°C",
     "poly_price": 0.28,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.41,
     "edge": "NEUTRAL",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.415,
     "edge": "NEUTRAL",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.535,
     "edge": "NEUTRAL",
-    "updated_at": "04:04"
+    "updated_at": "04:05"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -451,14 +451,14 @@
     "city": "Cape Town",
     "icao": "FACT",
     "region": "EUROPE",
-    "temp": 10.0,
+    "temp": 8.0,
     "max_today": 12.0,
     "sky": "CLEAR",
-    "dew_gap": 2.0,
-    "wind": "0°/0kt",
+    "dew_gap": 1.0,
+    "wind": "140°/4kt",
     "poly_fav": "23°C",
     "poly_price": 0.455,
-    "edge": "NEUTRAL",
+    "edge": "UNDER (Точка росы)",
     "updated_at": "04:05"
   },
   "NYC": {
