@@ -431,7 +431,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.395,
     "edge": "NEUTRAL",
-    "updated_at": "04:35"
+    "updated_at": "04:36"
   },
   "London": {
     "city": "London",
@@ -445,7 +445,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "04:35"
+    "updated_at": "04:36"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "23°C",
     "poly_price": 0.455,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "04:35"
+    "updated_at": "04:36"
   },
   "NYC": {
     "city": "NYC",
