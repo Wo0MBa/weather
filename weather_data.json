@@ -179,7 +179,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.705,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Shanghai": {
     "city": "Shanghai",
@@ -193,7 +193,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.565,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Guangzhou": {
     "city": "Guangzhou",
@@ -207,7 +207,7 @@
     "poly_fav": "30°C",
     "poly_price": 0.325,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Qingdao": {
     "city": "Qingdao",
@@ -221,7 +221,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.78,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Manila": {
     "city": "Manila",
@@ -235,7 +235,7 @@
     "poly_fav": "32°C",
     "poly_price": 0.58,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Lucknow": {
     "city": "Lucknow",
@@ -249,7 +249,7 @@
     "poly_fav": "33°C",
     "poly_price": 0.435,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Karachi": {
     "city": "Karachi",
@@ -263,7 +263,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Moscow": {
     "city": "Moscow",
@@ -277,7 +277,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.5,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Helsinki": {
     "city": "Helsinki",
@@ -291,7 +291,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.425,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Ankara": {
     "city": "Ankara",
@@ -305,7 +305,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Tel Aviv": {
     "city": "Tel Aviv",
@@ -319,7 +319,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.805,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Jeddah": {
     "city": "Jeddah",
@@ -333,7 +333,7 @@
     "poly_fav": "41°C",
     "poly_price": 0.305,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Istanbul": {
     "city": "Istanbul",
@@ -347,7 +347,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.815,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Madrid": {
     "city": "Madrid",
@@ -361,7 +361,7 @@
     "poly_fav": "37°C",
     "poly_price": 0.76,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Milan": {
     "city": "Milan",
@@ -375,7 +375,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Warsaw": {
     "city": "Warsaw",
@@ -389,7 +389,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.46,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Paris": {
     "city": "Paris",
@@ -403,7 +403,7 @@
     "poly_fav": "29°C",
     "poly_price": 0.595,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Amsterdam": {
     "city": "Amsterdam",
@@ -417,7 +417,7 @@
     "poly_fav": "23°C",
     "poly_price": 0.425,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Munich": {
     "city": "Munich",
@@ -431,7 +431,7 @@
     "poly_fav": "36°C",
     "poly_price": 0.555,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "London": {
     "city": "London",
@@ -445,7 +445,7 @@
     "poly_fav": "25°C",
     "poly_price": 0.495,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "Cape Town": {
     "city": "Cape Town",
@@ -459,7 +459,7 @@
     "poly_fav": "23°C",
     "poly_price": 0.47,
     "edge": "NEUTRAL",
-    "updated_at": "08:28"
+    "updated_at": "08:29"
   },
   "NYC": {
     "city": "NYC",
