@@ -599,7 +599,7 @@
     "poly_fav": "88-89°F",
     "poly_price": 0.55,
     "edge": "NEUTRAL",
-    "updated_at": "04:23"
+    "updated_at": "04:24"
   },
   "Mexico City": {
     "city": "Mexico City",
@@ -613,7 +613,7 @@
     "poly_fav": "26°C",
     "poly_price": 0.485,
     "edge": "NEUTRAL",
-    "updated_at": "04:23"
+    "updated_at": "04:24"
   },
   "Los Angeles": {
     "city": "Los Angeles",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.6,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "04:23"
+    "updated_at": "04:24"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "72-73°F",
     "poly_price": 0.295,
     "edge": "NEUTRAL",
-    "updated_at": "04:23"
+    "updated_at": "04:24"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "82-83°F",
     "poly_price": 0.455,
     "edge": "NEUTRAL",
-    "updated_at": "04:23"
+    "updated_at": "04:24"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "22°C",
     "poly_price": 0.335,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "04:23"
+    "updated_at": "04:24"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
@@ -683,6 +683,6 @@
     "poly_fav": "24°C",
     "poly_price": 0.4,
     "edge": "NEUTRAL",
-    "updated_at": "04:23"
+    "updated_at": "04:24"
   }
 }
