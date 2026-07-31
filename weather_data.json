@@ -9,7 +9,7 @@
     "dew_gap": 8.0,
     "wind": "330°/17kt",
     "poly_fav": "15°C",
-    "poly_price": 0.835,
+    "poly_price": 0.84,
     "edge": "NEUTRAL",
     "updated_at": "03:15"
   },
@@ -53,7 +53,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.405,
     "edge": "NEUTRAL",
-    "updated_at": "03:15"
+    "updated_at": "03:16"
   },
   "Chengdu": {
     "city": "Chengdu",
@@ -67,7 +67,7 @@
     "poly_fav": "27°C",
     "poly_price": 0.3,
     "edge": "UNDER (Точка росы)",
-    "updated_at": "03:15"
+    "updated_at": "03:16"
   },
   "Shenzhen": {
     "city": "Shenzhen",
@@ -81,7 +81,7 @@
     "poly_fav": "28°C",
     "poly_price": 0.31,
     "edge": "NEUTRAL",
-    "updated_at": "03:15"
+    "updated_at": "03:16"
   },
   "Beijing": {
     "city": "Beijing",
@@ -95,7 +95,7 @@
     "poly_fav": "34°C",
     "poly_price": 0.415,
     "edge": "NEUTRAL",
-    "updated_at": "03:15"
+    "updated_at": "03:16"
   },
   "Wuhan": {
     "city": "Wuhan",
@@ -109,7 +109,7 @@
     "poly_fav": "35°C",
     "poly_price": 0.465,
     "edge": "NEUTRAL",
-    "updated_at": "03:15"
+    "updated_at": "03:16"
   },
   "Chongqing": {
     "city": "Chongqing",
