@@ -3,11 +3,11 @@
     "city": "Wellington",
     "icao": "NZWN",
     "region": "ASIA",
-    "temp": 14.0,
-    "max_today": 14.0,
+    "temp": 15.0,
+    "max_today": 15.0,
     "sky": "CLEAR",
-    "dew_gap": 8.0,
-    "wind": "330°/17kt",
+    "dew_gap": 9.0,
+    "wind": "0°/0kt",
     "poly_fav": "15°C",
     "poly_price": 0.855,
     "edge": "NEUTRAL",
@@ -627,7 +627,7 @@
     "poly_fav": "78-79°F",
     "poly_price": 0.595,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "03:34"
+    "updated_at": "03:35"
   },
   "San Francisco": {
     "city": "San Francisco",
@@ -641,7 +641,7 @@
     "poly_fav": "72-73°F",
     "poly_price": 0.3,
     "edge": "NEUTRAL",
-    "updated_at": "03:34"
+    "updated_at": "03:35"
   },
   "Seattle": {
     "city": "Seattle",
@@ -655,7 +655,7 @@
     "poly_fav": "82-83°F",
     "poly_price": 0.445,
     "edge": "NEUTRAL",
-    "updated_at": "03:34"
+    "updated_at": "03:35"
   },
   "Buenos Aires": {
     "city": "Buenos Aires",
@@ -669,7 +669,7 @@
     "poly_fav": "22°C",
     "poly_price": 0.325,
     "edge": "UNDER (Морской бриз)",
-    "updated_at": "03:34"
+    "updated_at": "03:35"
   },
   "Sao Paulo": {
     "city": "Sao Paulo",
